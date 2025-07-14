@@ -1,0 +1,700 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Filter Japanese Translation\n"
+"POT-Creation-Date: 2023-11-24 16:16+0530\n"
+"PO-Revision-Date: 2023-11-24 16:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-output.php:192
+msgid "By"
+msgstr "作成者"
+
+#: blog-filter-settings.php:18
+msgid "Blog Filter Settings Page"
+msgstr "ブログフィルター設定ページ"
+
+#: blog-filter-settings.php:25
+msgid "Column Settings"
+msgstr "カラム設定"
+
+#: blog-filter-settings.php:30
+msgid "Template Right To Left"
+msgstr "テンプレート右から左へ"
+
+#: blog-filter-settings.php:41
+msgid "Same Size Grid"
+msgstr "同サイズのグリッド"
+
+#: blog-filter-settings.php:52
+msgid "Column On Large Desktop"
+msgstr "大型デスクトップのカラム"
+
+#: blog-filter-settings.php:56
+msgid "1 Column"
+msgstr "1カラム"
+
+#: blog-filter-settings.php:57
+msgid "2 Column"
+msgstr "2カラム"
+
+#: blog-filter-settings.php:58
+msgid "3 Column"
+msgstr "3カラム"
+
+#: blog-filter-settings.php:59
+msgid "4 Column"
+msgstr "4カラム"
+
+#: blog-filter-settings.php:60
+msgid "6 Column"
+msgstr "6カラム"
+
+#: blog-filter-settings.php:61
+msgid "12 Column"
+msgstr "12カラム"
+
+#: blog-filter-settings.php:67
+msgid "Column On Desktop"
+msgstr "デスクトップのカラム"
+
+#: blog-filter-settings.php:70 blog-filter-settings.php:78
+#: blog-filter-settings.php:86 blog-filter-settings.php:141
+#: blog-filter-settings.php:149 blog-filter-settings.php:198
+#: blog-filter-settings.php:206 blog-filter-settings.php:315
+#: blog-filter-settings.php:364 blog-filter-settings.php:372
+#: blog-filter-settings.php:380 blog-filter-settings.php:388
+#: blog-filter-settings.php:475 blog-filter-settings.php:483
+#: blog-filter-settings.php:491 blog-filter-settings.php:499
+#: blog-filter-settings.php:600 blog-filter-settings.php:608
+#: blog-filter-settings.php:616 blog-filter-settings.php:635
+#: blog-filter-settings.php:643 blog-filter-settings.php:662
+#: blog-filter-settings.php:670
+msgid "Upgrade To Pro"
+msgstr "プロ版へアップグレード"
+
+#: blog-filter-settings.php:75
+msgid "Column On Tablet"
+msgstr "タブレットのカラム"
+
+#: blog-filter-settings.php:83
+msgid "Column On Phone"
+msgstr "電話のカラム"
+
+#: blog-filter-settings.php:97
+msgid "Image Settings"
+msgstr "画像設定"
+
+#: blog-filter-settings.php:102
+msgid "Show Blog Images"
+msgstr "ブログ画像を表示"
+
+#: blog-filter-settings.php:113
+msgid "Image Quality"
+msgstr "画像品質"
+
+#: blog-filter-settings.php:117
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: blog-filter-settings.php:118
+msgid "Medium"
+msgstr "中"
+
+#: blog-filter-settings.php:119
+msgid "Large"
+msgstr "大"
+
+#: blog-filter-settings.php:120
+msgid "Full"
+msgstr "全体"
+
+#: blog-filter-settings.php:126
+msgid "Image Hover Effect"
+msgstr "画像ホバーエフェクト"
+
+#: blog-filter-settings.php:130
+msgid "None"
+msgstr "なし"
+
+#: blog-filter-settings.php:131
+msgid "Hover 1"
+msgstr "ホバー1"
+
+#: blog-filter-settings.php:135
+msgid "Get more hover effect in Pro"
+msgstr "プロ版でより多くのホバーエフェクトを取得"
+
+#: blog-filter-settings.php:138
+msgid "Link On Image"
+msgstr "画像にリンク"
+
+#: blog-filter-settings.php:146
+msgid "Lightbox On Image"
+msgstr "画像上のライトボックス"
+
+#: blog-filter-settings.php:160
+msgid "Title Settings"
+msgstr "タイトル設定"
+
+#: blog-filter-settings.php:165
+msgid "Show Blog Title"
+msgstr "ブログタイトルを表示"
+
+#: blog-filter-settings.php:176
+msgid "Title Text Color"
+msgstr "タイトルテキストの色"
+
+#: blog-filter-settings.php:184
+msgid "Title Font Size"
+msgstr "タイトルのフォントサイズ"
+
+#: blog-filter-settings.php:195
+msgid "Title Below The Image"
+msgstr "画像の下のタイトル"
+
+#: blog-filter-settings.php:203
+msgid "Link On Title"
+msgstr "タイトルにリンク"
+
+#: blog-filter-settings.php:217
+msgid "Description Settings"
+msgstr "説明設定"
+
+#: blog-filter-settings.php:222
+msgid "Show Blog Description"
+msgstr "ブログの説明を表示"
+
+#: blog-filter-settings.php:233
+msgid "Description Text Color"
+msgstr "説明テキストの色"
+
+#: blog-filter-settings.php:241
+msgid "Description Box Color"
+msgstr "説明ボックスの色"
+
+#: blog-filter-settings.php:249
+msgid "Description Font Size"
+msgstr "説明のフォントサイズ"
+
+#: blog-filter-settings.php:260
+msgid "How Much Characters Show In Description"
+msgstr "説明に表示する文字数"
+
+#: blog-filter-settings.php:274
+msgid "Post Meta Settings"
+msgstr "投稿メタ設定"
+
+#: blog-filter-settings.php:279
+msgid "Show Post Date"
+msgstr "投稿日を表示"
+
+#: blog-filter-settings.php:290
+msgid "Show Post Author"
+msgstr "投稿者を表示"
+
+#: blog-filter-settings.php:301
+msgid "Show Post Categories"
+msgstr "投稿カテゴリを表示"
+
+#: blog-filter-settings.php:312
+msgid "Show Post Tags"
+msgstr "投稿タグを表示"
+
+#: blog-filter-settings.php:326
+msgid "Link (URL) Settings"
+msgstr "リンク（URL）設定"
+
+#: blog-filter-settings.php:331
+msgid "Show Read More Link"
+msgstr "「もっと読む」リンクを表示"
+
+#: blog-filter-settings.php:342
+msgid "Text For Read More Link"
+msgstr "「もっと読む」リンクのテキスト"
+
+#: blog-filter-settings.php:350
+msgid "Link On Date"
+msgstr "日付にリンク"
+
+#: blog-filter-settings.php:361
+msgid "Link On Author"
+msgstr "作者にリンク"
+
+#: blog-filter-settings.php:369
+msgid "Link On Category"
+msgstr "カテゴリにリンク"
+
+#: blog-filter-settings.php:377
+msgid "Link On Tags"
+msgstr "タグにリンク"
+
+#: blog-filter-settings.php:385
+msgid "Link Open In New Tab"
+msgstr "リンクを新しいタブで開く"
+
+#: blog-filter-settings.php:399
+msgid "Filter Settings"
+msgstr "フィルター設定"
+
+#: blog-filter-settings.php:404
+msgid "Show Filters"
+msgstr "フィルターを表示"
+
+#: blog-filter-settings.php:415
+msgid "Show Filter \"All\""
+msgstr "「すべて」フィルターを表示"
+
+#: blog-filter-settings.php:426
+msgid "Text For \"All\" Button"
+msgstr "「すべて」ボタンのテキスト"
+
+#: blog-filter-settings.php:434
+msgid "Show Post Count On Filters"
+msgstr "フィルターに投稿数を表示"
+
+#: blog-filter-settings.php:445
+msgid "Buttons Color"
+msgstr "ボタンの色"
+
+#: blog-filter-settings.php:453
+msgid "Blog Search Field"
+msgstr "ブログ検索フィールド"
+
+#: blog-filter-settings.php:464
+msgid "Text For Search"
+msgstr "検索用のテキスト"
+
+#: blog-filter-settings.php:472
+msgid "Multi-Filter In Same Time"
+msgstr "同時に複数フィルター"
+
+#: blog-filter-settings.php:480
+msgid "Select Default Filter"
+msgstr "デフォルトフィルターを選択"
+
+#: blog-filter-settings.php:488
+msgid "Exclude Posts"
+msgstr "投稿を除外"
+
+#: blog-filter-settings.php:496
+msgid "URL Based Filtering"
+msgstr "URLベースのフィルタリング"
+
+#: blog-filter-settings.php:504
+msgid "Filtering with"
+msgstr "フィルタリング方法"
+
+#: blog-filter-settings.php:508 blog-filter-settings.php:524
+msgid "Category"
+msgstr "カテゴリ"
+
+#: blog-filter-settings.php:509
+msgid "Tag"
+msgstr "タグ"
+
+#: blog-filter-settings.php:523 blog-filter-settings.php:553
+msgid "ID"
+msgstr "ID"
+
+#: blog-filter-settings.php:525
+msgid "Select"
+msgstr "選択"
+
+#: blog-filter-settings.php:541
+msgid "Note: In free version you can use only 4 categories as filters"
+msgstr ""
+"注意: 無料バージョンでは、フィルターとして4つのカテゴリーのみを使用できます"
+
+#: blog-filter-settings.php:554
+msgid "Post Tag"
+msgstr "投稿タグ"
+
+#: blog-filter-settings.php:571
+msgid "Note: In free version you can use only 4 tags as filters"
+msgstr "注意: 無料バージョンでは、フィルターとして4つのタグのみを使用できます"
+
+#: blog-filter-settings.php:581
+msgid "Pagination Settings"
+msgstr "ページネーション設定"
+
+#: blog-filter-settings.php:586
+msgid "Pagination"
+msgstr "ページネーション"
+
+#: blog-filter-settings.php:597
+msgid "Blogs On Per Page"
+msgstr "1ページあたりのブログ数"
+
+#: blog-filter-settings.php:605
+msgid "Load More"
+msgstr "もっと読む"
+
+#: blog-filter-settings.php:613
+msgid "Load On Scroll"
+msgstr "スクロール時に読み込む"
+
+#: blog-filter-settings.php:627
+msgid "Post Order Settings"
+msgstr "投稿順序設定"
+
+#: blog-filter-settings.php:632
+msgid "Post Order By"
+msgstr "投稿順序基準"
+
+#: blog-filter-settings.php:640
+msgid "Post Order"
+msgstr "投稿順序"
+
+#: blog-filter-settings.php:654
+msgid "Thumbnail Settings"
+msgstr "サムネイル設定"
+
+#: blog-filter-settings.php:659
+msgid "Thumbanil Hover Effect"
+msgstr "サムネイルのホバーエフェクト"
+
+#: blog-filter-settings.php:667
+msgid "Thumbnail Spacing"
+msgstr "サムネイルの間隔"
+
+#: blog-filter-settings.php:681
+msgid "Try Pro Version"
+msgstr "プロ版を試す"
+
+#: blog-filter-settings.php:686
+msgid "Update Sortcode, Without Regenerate It"
+msgstr "ソートコードを更新する（再生成せずに）"
+
+#: blog-filter-settings.php:689
+msgid "See Post"
+msgstr "投稿を見る"
+
+#: blog-filter-settings.php:694
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: blog-filter-settings.php:697
+msgid "Contact"
+msgstr "連絡先"
+
+#: blog-filter-settings.php:702
+msgid "See Live Demo of Pro"
+msgstr "プロ版のライブデモを見る"
+
+#: blog-filter-settings.php:705
+msgid "Live Demo"
+msgstr "ライブデモ"
+
+#: blog-filter-settings.php:710
+msgid "Buy Pro"
+msgstr "プロ版を購入"
+
+#: blog-filter-settings.php:713
+msgid "Buy Pro Plugin"
+msgstr "プロプラグインを購入"
+
+#: blog-filter-settings.php:726
+msgid "Blog Filter"
+msgstr "ブログフィルター"
+
+#: blog-filter-settings.php:729
+msgid "Version - "
+msgstr "バージョン - "
+
+#: blog-filter-settings.php:738
+msgid "[ Generate Sortcode ]"
+msgstr "[ ソートコードを生成 ]"
+
+#: blog-filter-settings.php:749
+msgid "Blog Filter Shortcode"
+msgstr "ブログフィルターのショートコード"
+
+#: blog-filter-settings.php:752
+msgid "Copy The Shortcode"
+msgstr "ショートコードをコピー"
+
+#: blog-filter-settings.php:756
+msgid "Copy Sortcode"
+msgstr "ソートコードをコピー"
+
+#: blog-filter.php:44
+msgid "Blog Filter Premium"
+msgstr "ブログフィルター プレミアム"
+
+#: blog-filter.php:70
+msgid "Settings"
+msgstr "設定"
+
+#: blog-filter.php:90
+msgid "Blog Filters Settings"
+msgstr "ブログフィルターの設定"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "必要なプラグインをインストール"
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "プラグインをインストール"
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "プラグインを更新中: %s"
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "プラグインAPIに問題が発生しました。"
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "必要なプラグインのインストーラーに戻る"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr "プラグインが正常にアクティベートされました。"
+
+#: class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "以下のプラグインが正常にアクティベートされました:"
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+"アクションは行われませんでした。プラグイン %1$s はすでにアクティブです。"
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"プラグインはアクティベートされませんでした。このテーマには %s のより高いバー"
+"ジョンが必要です。プラグインを更新してください。"
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+"すべてのプラグインが正常にインストールおよびアクティベートされました。 %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "この通知を閉じる"
+
+#: class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"インストール、更新、またはアクティベートが必要または推奨されるプラグインが1つ"
+"以上あります。"
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合は、このサイトの管理者に連絡してください。"
+
+#: class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr "必須"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr "推奨"
+
+#: class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr "WordPressリポジトリ"
+
+#: class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr "外部ソース"
+
+#: class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr "事前パッケージ化"
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr "インストールされていない"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr "インストールされているがアクティベートされていない"
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr "アクティブ"
+
+#: class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr "必要なアップデートが利用できない"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr "アップデートが必要"
+
+#: class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr "アップデート推奨"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr "インストールされたバージョン："
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr "必要最小限のバージョン："
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr "利用可能なバージョン："
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr "ソース"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr "タイプ"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr "バージョン"
+
+#: class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr "ステータス"
+
+#: class-tgm-plugin-activation.php:2716
+#, php-format
+msgid "Install %2$s"
+msgstr "%2$sをインストール"
+
+#: class-tgm-plugin-activation.php:2721
+#, php-format
+msgid "Update %2$s"
+msgstr "%2$sを更新"
+
+#: class-tgm-plugin-activation.php:2727
+#, php-format
+msgid "Activate %2$s"
+msgstr "%2$sをアクティベート"
+
+#: class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr "インストール"
+
+#: class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr "アップデート"
+
+#: class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr "アクティベート"
+
+#: class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"インストールするプラグインが選択されていませんでした。何も行われませんでし"
+"た。"
+
+#: class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"アップデートするプラグインが選択されていませんでした。何も行われませんでし"
+"た。"
+
+#: class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr "現在、インストール可能なプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr "現在、アップデート可能なプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr "プラグインのアクティベーションに失敗しました。"
+
+#: class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s を更新中 (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s のインストール中にエラーが発生しました: <strong>%2$s</strong>。"
+
+#: class-tgm-plugin-activation.php:3620
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#: class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"インストールおよびアクティベーションプロセスが開始されています。このプロセス"
+"は一部のホストでは時間がかかる場合がありますので、ご耐性ください。"
+
+#: class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s が正常にインストールおよびアクティベートされました。"
+
+#: class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールおよびアクティベーションが完了しました。"
+
+#: class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s をインストールおよびアクティベート中 (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3632
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"インストールプロセスが開始されています。このプロセスは一部のホストでは時間が"
+"かかる場合がありますので、ご耐性ください。"
+
+#: class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#: class-tgm-plugin-activation.php:3637
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s をインストール中 (%2$d/%3$d)"

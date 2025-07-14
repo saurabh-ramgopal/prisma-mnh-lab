@@ -1,0 +1,691 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-01-03 15:35+0530\n"
+"PO-Revision-Date: 2025-01-03 15:35+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: esc_html_e;_e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-output.php:192
+msgid "By"
+msgstr "מאת"
+
+#: blog-filter-settings.php:18
+msgid "Blog Filter Settings Page"
+msgstr "דף הגדרות מסנן בלוג"
+
+#: blog-filter-settings.php:25
+msgid "Column Settings"
+msgstr "הגדרות עמודה"
+
+#: blog-filter-settings.php:30
+msgid "Template Right To Left"
+msgstr "תבנית מימין לשמאל"
+
+#: blog-filter-settings.php:41
+msgid "Same Size Grid"
+msgstr "רשת באותו גודל"
+
+#: blog-filter-settings.php:52
+msgid "Column On Large Desktop"
+msgstr "עמודה על שולחן עבודה גדול"
+
+#: blog-filter-settings.php:56
+msgid "1 Column"
+msgstr "עמודה אחת"
+
+#: blog-filter-settings.php:57
+msgid "2 Column"
+msgstr "שתי עמודות"
+
+#: blog-filter-settings.php:58
+msgid "3 Column"
+msgstr "שלוש עמודות"
+
+#: blog-filter-settings.php:59
+msgid "4 Column"
+msgstr "ארבע עמודות"
+
+#: blog-filter-settings.php:60
+msgid "6 Column"
+msgstr "שש עמודות"
+
+#: blog-filter-settings.php:61
+msgid "12 Column"
+msgstr "שתים עשרה עמודות"
+
+#: blog-filter-settings.php:67
+msgid "Column On Desktop"
+msgstr "עמודה על שולחן העבודה"
+
+#: blog-filter-settings.php:70 blog-filter-settings.php:78
+#: blog-filter-settings.php:86 blog-filter-settings.php:141
+#: blog-filter-settings.php:149 blog-filter-settings.php:198
+#: blog-filter-settings.php:206 blog-filter-settings.php:315
+#: blog-filter-settings.php:364 blog-filter-settings.php:372
+#: blog-filter-settings.php:380 blog-filter-settings.php:388
+#: blog-filter-settings.php:475 blog-filter-settings.php:483
+#: blog-filter-settings.php:491 blog-filter-settings.php:499
+#: blog-filter-settings.php:600 blog-filter-settings.php:608
+#: blog-filter-settings.php:616 blog-filter-settings.php:635
+#: blog-filter-settings.php:643 blog-filter-settings.php:662
+#: blog-filter-settings.php:670
+msgid "Upgrade To Pro"
+msgstr "שדרג ל-Pro"
+
+#: blog-filter-settings.php:75
+msgid "Column On Tablet"
+msgstr "עמודה בטאבלט"
+
+#: blog-filter-settings.php:83
+msgid "Column On Phone"
+msgstr "עמודה בטלפון"
+
+#: blog-filter-settings.php:97
+msgid "Image Settings"
+msgstr "הגדרות תמונה"
+
+#: blog-filter-settings.php:102
+msgid "Show Blog Images"
+msgstr "הצג תמונות בלוג"
+
+#: blog-filter-settings.php:113
+msgid "Image Quality"
+msgstr "איכות תמונה"
+
+#: blog-filter-settings.php:117
+msgid "Thumbnail"
+msgstr "תמונה ממוזערת"
+
+#: blog-filter-settings.php:118
+msgid "Medium"
+msgstr "בינוני"
+
+#: blog-filter-settings.php:119
+msgid "Large"
+msgstr "גדול"
+
+#: blog-filter-settings.php:120
+msgid "Full"
+msgstr "מלא"
+
+#: blog-filter-settings.php:126
+msgid "Image Hover Effect"
+msgstr "אפקט ריחוף של תמונה"
+
+#: blog-filter-settings.php:130
+msgid "None"
+msgstr "אין"
+
+#: blog-filter-settings.php:131
+msgid "Hover 1"
+msgstr "רחף 1"
+
+#: blog-filter-settings.php:135
+msgid "Get more hover effect in Pro"
+msgstr "קבל יותר אפקט ריחוף ב-Pro"
+
+#: blog-filter-settings.php:138
+msgid "Link On Image"
+msgstr "קישור בתמונה"
+
+#: blog-filter-settings.php:146
+msgid "Lightbox On Image"
+msgstr "תיבת אור על תמונה"
+
+#: blog-filter-settings.php:160
+msgid "Title Settings"
+msgstr "הגדרות כותרת"
+
+#: blog-filter-settings.php:165
+msgid "Show Blog Title"
+msgstr "הצג את כותרת הבלוג"
+
+#: blog-filter-settings.php:176
+msgid "Title Text Color"
+msgstr "צבע טקסט כותרת"
+
+#: blog-filter-settings.php:184
+msgid "Title Font Size"
+msgstr "גודל גופן כותרת"
+
+#: blog-filter-settings.php:195
+msgid "Title Below The Image"
+msgstr "כותרת מתחת לתמונה"
+
+#: blog-filter-settings.php:203
+msgid "Link On Title"
+msgstr "קישור על כותרת"
+
+#: blog-filter-settings.php:217
+msgid "Description Settings"
+msgstr "הגדרות תיאור"
+
+#: blog-filter-settings.php:222
+msgid "Show Blog Description"
+msgstr "הצג את תיאור הבלוג"
+
+#: blog-filter-settings.php:233
+msgid "Description Text Color"
+msgstr "צבע טקסט תיאור"
+
+#: blog-filter-settings.php:241
+msgid "Description Box Color"
+msgstr "צבע תיבת תיאור"
+
+#: blog-filter-settings.php:249
+msgid "Description Font Size"
+msgstr "גודל גופן תיאור"
+
+#: blog-filter-settings.php:260
+msgid "How Much Characters Show In Description"
+msgstr "כמה דמויות מופיעות בתיאור"
+
+#: blog-filter-settings.php:274
+msgid "Post Meta Settings"
+msgstr "הגדרות מטא פוסט"
+
+#: blog-filter-settings.php:279
+msgid "Show Post Date"
+msgstr "הצג תאריך פרסום"
+
+#: blog-filter-settings.php:290
+msgid "Show Post Author"
+msgstr "מחבר הפוסט"
+
+#: blog-filter-settings.php:301
+msgid "Show Post Categories"
+msgstr "הצג קטגוריות פוסטים"
+
+#: blog-filter-settings.php:312
+msgid "Show Post Tags"
+msgstr "הצג תגיות פוסטים"
+
+#: blog-filter-settings.php:326
+msgid "Link (URL) Settings"
+msgstr "הגדרות קישור (URL)"
+
+#: blog-filter-settings.php:331
+msgid "Show Read More Link"
+msgstr "הצג קישור לקריאה נוספת"
+
+#: blog-filter-settings.php:342
+msgid "Text For Read More Link"
+msgstr "טקסט לקרא עוד קישור"
+
+#: blog-filter-settings.php:350
+msgid "Link On Date"
+msgstr "תאריך קישור"
+
+#: blog-filter-settings.php:361
+msgid "Link On Author"
+msgstr "קישור על מחבר"
+
+#: blog-filter-settings.php:369
+msgid "Link On Category"
+msgstr "קישור על קטגוריה"
+
+#: blog-filter-settings.php:377
+msgid "Link On Tags"
+msgstr "קישור על תגיות"
+
+#: blog-filter-settings.php:385
+msgid "Link Open In New Tab"
+msgstr "קישור נפתח בכרטיסייה חדשה"
+
+#: blog-filter-settings.php:399
+msgid "Filter Settings"
+msgstr "הגדרות מסנן"
+
+#: blog-filter-settings.php:404
+msgid "Show Filters"
+msgstr "הצג מסננים"
+
+#: blog-filter-settings.php:415
+msgid "Show Filter \"All\""
+msgstr "הצג מסנן \"הכל\""
+
+#: blog-filter-settings.php:426
+msgid "Text For \"All\" Button"
+msgstr "לחצן טקסט עבור \"הכל\"."
+
+#: blog-filter-settings.php:434
+msgid "Show Post Count On Filters"
+msgstr "הצג מסנני ספירת פוסטים"
+
+#: blog-filter-settings.php:445
+msgid "Buttons Color"
+msgstr "צבע כפתורים"
+
+#: blog-filter-settings.php:453
+msgid "Blog Search Field"
+msgstr "שדה חיפוש בבלוג"
+
+#: blog-filter-settings.php:464
+msgid "Text For Search"
+msgstr "טקסט לחיפוש"
+
+#: blog-filter-settings.php:472
+msgid "Multi-Filter In Same Time"
+msgstr "מסנן מרובה באותו זמן"
+
+#: blog-filter-settings.php:480
+msgid "Select Default Filter"
+msgstr "בחר מסנן ברירת מחדל"
+
+#: blog-filter-settings.php:488
+msgid "Exclude Posts"
+msgstr "אל תכלול פוסטים"
+
+#: blog-filter-settings.php:496
+msgid "URL Based Filtering"
+msgstr "סינון מבוסס URL"
+
+#: blog-filter-settings.php:504
+msgid "Filtering with"
+msgstr "סינון עם"
+
+#: blog-filter-settings.php:508 blog-filter-settings.php:524
+msgid "Category"
+msgstr "קטגוריה"
+
+#: blog-filter-settings.php:509
+msgid "Tag"
+msgstr "תג"
+
+#: blog-filter-settings.php:523 blog-filter-settings.php:553
+msgid "ID"
+msgstr "מזהה"
+
+#: blog-filter-settings.php:525
+msgid "Select"
+msgstr "בחר"
+
+#: blog-filter-settings.php:541
+msgid "Note: In free version you can use only 4 categories as filters"
+msgstr "הערה: בגרסה החינמית אתה יכול להשתמש רק ב-4 קטגוריות כמסננים"
+
+#: blog-filter-settings.php:554
+msgid "Post Tag"
+msgstr "תג פוסט"
+
+#: blog-filter-settings.php:571
+msgid "Note: In free version you can use only 4 tags as filters"
+msgstr "הערה: בגרסה החינמית אתה יכול להשתמש רק ב-4 תגים כמסננים"
+
+#: blog-filter-settings.php:581
+msgid "Pagination Settings"
+msgstr "הגדרות ציון"
+
+#: blog-filter-settings.php:586
+msgid "Pagination"
+msgstr "דפיון"
+
+#: blog-filter-settings.php:597
+msgid "Blogs On Per Page"
+msgstr "בלוגים בכל עמוד"
+
+#: blog-filter-settings.php:605
+msgid "Load More"
+msgstr "טען עוד"
+
+#: blog-filter-settings.php:613
+msgid "Load On Scroll"
+msgstr "טען על גלילה"
+
+#: blog-filter-settings.php:627
+msgid "Post Order Settings"
+msgstr "הגדרות פוסט הזמנה"
+
+#: blog-filter-settings.php:632
+msgid "Post Order By"
+msgstr "הזמנה לפי"
+
+#: blog-filter-settings.php:640
+msgid "Post Order"
+msgstr "פוסט הזמנה"
+
+#: blog-filter-settings.php:654
+msgid "Thumbnail Settings"
+msgstr "הגדרות תמונות ממוזערות"
+
+#: blog-filter-settings.php:659
+msgid "Thumbanil Hover Effect"
+msgstr "אפקט ריחוף אגודל"
+
+#: blog-filter-settings.php:667
+msgid "Thumbnail Spacing"
+msgstr "מרווח בין תמונות ממוזערות"
+
+#: blog-filter-settings.php:681
+msgid "Try Pro Version"
+msgstr "נסה את גרסת ה-Pro"
+
+#: blog-filter-settings.php:686
+msgid "Update Sortcode, Without Regenerate It"
+msgstr "עדכן את Sortcode, מבלי ליצור אותו מחדש"
+
+#: blog-filter-settings.php:689
+msgid "See Post"
+msgstr "ראה פוסט"
+
+#: blog-filter-settings.php:694
+msgid "Contact Us"
+msgstr "צור קשר"
+
+#: blog-filter-settings.php:697
+msgid "Contact"
+msgstr "צור קשר"
+
+#: blog-filter-settings.php:702
+msgid "See Live Demo of Pro"
+msgstr "ראה הדגמה חיה של Pro"
+
+#: blog-filter-settings.php:705
+msgid "Live Demo"
+msgstr "הדגמה חיה"
+
+#: blog-filter-settings.php:710
+msgid "Buy Pro"
+msgstr "רכוש פרו"
+
+#: blog-filter-settings.php:713
+msgid "Buy Pro Plugin"
+msgstr "רכוש תוסף פרו"
+
+#: blog-filter-settings.php:726
+msgid "Blog Filter"
+msgstr "מסנן בלוג"
+
+#: blog-filter-settings.php:729
+msgid "Version - "
+msgstr "גרסה - "
+
+#: blog-filter-settings.php:738
+msgid "[ Generate Sortcode ]"
+msgstr "[ צור קוד מיון ]"
+
+#: blog-filter-settings.php:749
+msgid "Blog Filter Shortcode"
+msgstr "קוד קצר לסינון בלוג"
+
+#: blog-filter-settings.php:752
+msgid "Copy The Shortcode"
+msgstr "העתק את הקוד הקצר"
+
+#: blog-filter-settings.php:756
+msgid "Copy Sortcode"
+msgstr "העתק Sortcode"
+
+#: blog-filter.php:44
+msgid "Blog Filter Premium"
+msgstr "סינון בלוג פרימיום"
+
+#: blog-filter.php:70
+msgid "Settings"
+msgstr "הגדרות"
+
+#: blog-filter.php:90
+msgid "Blog Filters Settings"
+msgstr "הגדרות מסנני בלוגים"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "התקן תוספים נדרשים"
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "התקן פלאגינים"
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "התקנת תוסף: %s"
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "עדכון תוסף: %s"
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "משהו השתבש ב-API של הפלאגין."
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "חזור למתקין התוספים הנדרשים"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "חזור ללוח המחוונים"
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr "התוסף הופעל בהצלחה."
+
+#: class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "התוסף הבא הופעל בהצלחה:"
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "לא בוצעה פעולה. התוסף %1$s כבר היה פעיל."
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"התוסף לא הופעל. יש צורך בגרסה מתקדמת יותר של %s עבור תבנית זו. אנא עדכן את "
+"התוסף."
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "כל התוספים הותקנו והופעלו בהצלחה. %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "פסל הודעה זו"
+
+#: class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "יש אחד או יותר תוספים נדרשים או מומלצים להתקנה, עדכון או הפעלה."
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "אנא צור קשר עם מנהל האתר הזה לקבלת עזרה."
+
+#: class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr "חובה"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr "מומלץ"
+
+#: class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr "מאגר וורדפרס"
+
+#: class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr "מקור חיצוני"
+
+#: class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr "ארוז מראש"
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr "לא מותקן"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr "מותקן אך לא הופעל"
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr "פעיל"
+
+#: class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr "עדכון נדרש אינו זמין"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr "דורש עדכון"
+
+#: class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr "עדכון מומלץ"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr "גרסה מותקנת:"
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr "גרסת מינימום נדרשת:"
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr "גרסה זמינה:"
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr "פלאגין"
+
+#: class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr "מקור"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr "סוג"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr "גרסה"
+
+#: class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr "סטטוס"
+
+#: class-tgm-plugin-activation.php:2716
+#, php-format
+msgid "Install %2$s"
+msgstr "התקן %2$s"
+
+#: class-tgm-plugin-activation.php:2721
+#, php-format
+msgid "Update %2$s"
+msgstr "עדכון %2$s"
+
+#: class-tgm-plugin-activation.php:2727
+#, php-format
+msgid "Activate %2$s"
+msgstr "הפעל %2$s"
+
+#: class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr "התקן"
+
+#: class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr "עדכון"
+
+#: class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr "הפעל"
+
+#: class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "לא נבחרו תוספים להתקנה. "
+
+#: class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "לא נבחרו תוספים לעדכון. "
+
+#: class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr "אין פלאגינים זמינים להתקנה בשלב זה."
+
+#: class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr "אין פלאגינים זמינים לעדכון בשלב זה."
+
+#: class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr "הפעלת הפלאגין נכשלה."
+
+#: class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "עדכון הפלאגין %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "אירעה שגיאה בעת התקנת %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3620
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "ההתקנה של %1$s נכשלה."
+
+#: class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"תהליך ההתקנה וההפעלה מתחיל. תהליך זה עשוי להימשך זמן מה אצל חלק מהמארחים, "
+"אנא היו סבלניים."
+
+#: class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s הותקן והופעל בהצלחה."
+
+#: class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr "כל ההתקנות וההפעלות הושלמו."
+
+#: class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "התקנה והפעלה של הפלאגין %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3632
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"תהליך ההתקנה מתחיל. תהליך זה עשוי להימשך זמן מה אצל חלק מהמארחים, אנא היו "
+"סבלניים."
+
+#: class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr "כל ההתקנות הושלמו."
+
+#: class-tgm-plugin-activation.php:3637
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "התקנת הפלאגין %1$s (%2$d/%3$d)"

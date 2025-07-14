@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Filter Arabic Translation\n"
+"POT-Creation-Date: 2023-11-24 16:57+0530\n"
+"PO-Revision-Date: 2023-11-24 16:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-output.php:192
+msgid "By"
+msgstr "بواسطة"
+
+#: blog-filter-settings.php:18
+msgid "Blog Filter Settings Page"
+msgstr "صفحة إعدادات فلتر المدونة"
+
+#: blog-filter-settings.php:25
+msgid "Column Settings"
+msgstr "إعدادات العمود"
+
+#: blog-filter-settings.php:30
+msgid "Template Right To Left"
+msgstr "قالب من اليمين إلى اليسار"
+
+#: blog-filter-settings.php:41
+msgid "Same Size Grid"
+msgstr "شبكة بنفس الحجم"
+
+#: blog-filter-settings.php:52
+msgid "Column On Large Desktop"
+msgstr "عمود على سطح المكتب الكبير"
+
+#: blog-filter-settings.php:56
+msgid "1 Column"
+msgstr "1 عمود"
+
+#: blog-filter-settings.php:57
+msgid "2 Column"
+msgstr "2 عمود"
+
+#: blog-filter-settings.php:58
+msgid "3 Column"
+msgstr "3 عمود"
+
+#: blog-filter-settings.php:59
+msgid "4 Column"
+msgstr "4 عمود"
+
+#: blog-filter-settings.php:60
+msgid "6 Column"
+msgstr "6 عمود"
+
+#: blog-filter-settings.php:61
+msgid "12 Column"
+msgstr "12 عمود"
+
+#: blog-filter-settings.php:67
+msgid "Column On Desktop"
+msgstr "عمود على سطح المكتب"
+
+#: blog-filter-settings.php:70 blog-filter-settings.php:78
+#: blog-filter-settings.php:86 blog-filter-settings.php:141
+#: blog-filter-settings.php:149 blog-filter-settings.php:198
+#: blog-filter-settings.php:206 blog-filter-settings.php:315
+#: blog-filter-settings.php:364 blog-filter-settings.php:372
+#: blog-filter-settings.php:380 blog-filter-settings.php:388
+#: blog-filter-settings.php:475 blog-filter-settings.php:483
+#: blog-filter-settings.php:491 blog-filter-settings.php:499
+#: blog-filter-settings.php:600 blog-filter-settings.php:608
+#: blog-filter-settings.php:616 blog-filter-settings.php:635
+#: blog-filter-settings.php:643 blog-filter-settings.php:662
+#: blog-filter-settings.php:670
+msgid "Upgrade To Pro"
+msgstr "الترقية إلى النسخة المحترفة"
+
+#: blog-filter-settings.php:75
+msgid "Column On Tablet"
+msgstr "عمود على الجهاز اللوحي"
+
+#: blog-filter-settings.php:83
+msgid "Column On Phone"
+msgstr "عمود على الهاتف"
+
+#: blog-filter-settings.php:97
+msgid "Image Settings"
+msgstr "إعدادات الصورة"
+
+#: blog-filter-settings.php:102
+msgid "Show Blog Images"
+msgstr "عرض صور المدونة"
+
+#: blog-filter-settings.php:113
+msgid "Image Quality"
+msgstr "جودة الصورة"
+
+#: blog-filter-settings.php:117
+msgid "Thumbnail"
+msgstr "صورة مصغرة"
+
+#: blog-filter-settings.php:118
+msgid "Medium"
+msgstr "متوسط"
+
+#: blog-filter-settings.php:119
+msgid "Large"
+msgstr "كبير"
+
+#: blog-filter-settings.php:120
+msgid "Full"
+msgstr "كامل"
+
+#: blog-filter-settings.php:126
+msgid "Image Hover Effect"
+msgstr "تأثير تحويم الصورة"
+
+#: blog-filter-settings.php:130
+msgid "None"
+msgstr "لا شيء"
+
+#: blog-filter-settings.php:131
+msgid "Hover 1"
+msgstr "تحويم 1"
+
+#: blog-filter-settings.php:135
+msgid "Get more hover effect in Pro"
+msgstr "احصل على المزيد من تأثيرات التحويم في النسخة المحترفة"
+
+#: blog-filter-settings.php:138
+msgid "Link On Image"
+msgstr "رابط على الصورة"
+
+#: blog-filter-settings.php:146
+msgid "Lightbox On Image"
+msgstr "لوحة الإضاءة على الصورة"
+
+#: blog-filter-settings.php:160
+msgid "Title Settings"
+msgstr "إعدادات العنوان"
+
+#: blog-filter-settings.php:165
+msgid "Show Blog Title"
+msgstr "عرض عنوان المدونة"
+
+#: blog-filter-settings.php:176
+msgid "Title Text Color"
+msgstr "لون نص العنوان"
+
+#: blog-filter-settings.php:184
+msgid "Title Font Size"
+msgstr "حجم خط العنوان"
+
+#: blog-filter-settings.php:195
+msgid "Title Below The Image"
+msgstr "العنوان أسفل الصورة"
+
+#: blog-filter-settings.php:203
+msgid "Link On Title"
+msgstr "رابط على العنوان"
+
+#: blog-filter-settings.php:217
+msgid "Description Settings"
+msgstr "إعدادات الوصف"
+
+#: blog-filter-settings.php:222
+msgid "Show Blog Description"
+msgstr "عرض وصف المدونة"
+
+#: blog-filter-settings.php:233
+msgid "Description Text Color"
+msgstr "لون نص الوصف"
+
+#: blog-filter-settings.php:241
+msgid "Description Box Color"
+msgstr "لون مربع الوصف"
+
+#: blog-filter-settings.php:249
+msgid "Description Font Size"
+msgstr "حجم خط الوصف"
+
+#: blog-filter-settings.php:260
+msgid "How Much Characters Show In Description"
+msgstr "عدد الأحرف المعروضة في الوصف"
+
+#: blog-filter-settings.php:274
+msgid "Post Meta Settings"
+msgstr "إعدادات البيانات الوصفية للمشاركة"
+
+#: blog-filter-settings.php:279
+msgid "Show Post Date"
+msgstr "عرض تاريخ المشاركة"
+
+#: blog-filter-settings.php:290
+msgid "Show Post Author"
+msgstr "عرض مؤلف المشاركة"
+
+#: blog-filter-settings.php:301
+msgid "Show Post Categories"
+msgstr "عرض فئات المشاركة"
+
+#: blog-filter-settings.php:312
+msgid "Show Post Tags"
+msgstr "عرض علامات المشاركة"
+
+#: blog-filter-settings.php:326
+msgid "Link (URL) Settings"
+msgstr "إعدادات الرابط (URL)"
+
+#: blog-filter-settings.php:331
+msgid "Show Read More Link"
+msgstr "عرض رابط 'اقرأ المزيد'"
+
+#: blog-filter-settings.php:342
+msgid "Text For Read More Link"
+msgstr "نص لرابط 'اقرأ المزيد'"
+
+#: blog-filter-settings.php:350
+msgid "Link On Date"
+msgstr "رابط على التاريخ"
+
+#: blog-filter-settings.php:361
+msgid "Link On Author"
+msgstr "رابط على المؤلف"
+
+#: blog-filter-settings.php:369
+msgid "Link On Category"
+msgstr "رابط على الفئة"
+
+#: blog-filter-settings.php:377
+msgid "Link On Tags"
+msgstr "رابط على العلامات"
+
+#: blog-filter-settings.php:385
+msgid "Link Open In New Tab"
+msgstr "فتح الرابط في علامة تبويب جديدة"
+
+#: blog-filter-settings.php:399
+msgid "Filter Settings"
+msgstr "إعدادات الفلتر"
+
+#: blog-filter-settings.php:404
+msgid "Show Filters"
+msgstr "عرض الفلاتر"
+
+#: blog-filter-settings.php:415
+msgid "Show Filter \"All\""
+msgstr "عرض فلتر 'الكل'"
+
+#: blog-filter-settings.php:426
+msgid "Text For \"All\" Button"
+msgstr "نص زر 'الكل'"
+
+#: blog-filter-settings.php:434
+msgid "Show Post Count On Filters"
+msgstr "عرض عدد المشاركات في الفلاتر"
+
+#: blog-filter-settings.php:445
+msgid "Buttons Color"
+msgstr "لون الأزرار"
+
+#: blog-filter-settings.php:453
+msgid "Blog Search Field"
+msgstr "حقل البحث في المدونة"
+
+#: blog-filter-settings.php:464
+msgid "Text For Search"
+msgstr "نص للبحث"
+
+#: blog-filter-settings.php:472
+msgid "Multi-Filter In Same Time"
+msgstr "تعدد الفلاتر في نفس الوقت"
+
+#: blog-filter-settings.php:480
+msgid "Select Default Filter"
+msgstr "اختيار الفلتر الافتراضي"
+
+#: blog-filter-settings.php:488
+msgid "Exclude Posts"
+msgstr "استثناء المشاركات"
+
+#: blog-filter-settings.php:496
+msgid "URL Based Filtering"
+msgstr "الفلترة بناءً على URL"
+
+#: blog-filter-settings.php:504
+msgid "Filtering with"
+msgstr "الفلترة باستخدام"
+
+#: blog-filter-settings.php:508 blog-filter-settings.php:524
+msgid "Category"
+msgstr "الفئة"
+
+#: blog-filter-settings.php:509
+msgid "Tag"
+msgstr "علامة"
+
+#: blog-filter-settings.php:523 blog-filter-settings.php:553
+msgid "ID"
+msgstr "الهوية"
+
+#: blog-filter-settings.php:525
+msgid "Select"
+msgstr "اختر"
+
+#: blog-filter-settings.php:541
+msgid "Note: In free version you can use only 4 categories as filters"
+msgstr "ملاحظة: في النسخة المجانية، يمكنك استخدام 4 فئات فقط كفلاتر"
+
+#: blog-filter-settings.php:554
+msgid "Post Tag"
+msgstr "علامة المشاركة"
+
+#: blog-filter-settings.php:571
+msgid "Note: In free version you can use only 4 tags as filters"
+msgstr "ملاحظة: في النسخة المجانية، يمكنك استخدام 4 علامات فقط كفلاتر"
+
+#: blog-filter-settings.php:581
+msgid "Pagination Settings"
+msgstr "إعدادات ترقيم الصفحات"
+
+#: blog-filter-settings.php:586
+msgid "Pagination"
+msgstr "ترقيم الصفحات"
+
+#: blog-filter-settings.php:597
+msgid "Blogs On Per Page"
+msgstr "المدونات في كل صفحة"
+
+#: blog-filter-settings.php:605
+msgid "Load More"
+msgstr "تحميل المزيد"
+
+#: blog-filter-settings.php:613
+msgid "Load On Scroll"
+msgstr "التحميل عند التمرير"
+
+#: blog-filter-settings.php:627
+msgid "Post Order Settings"
+msgstr "إعدادات ترتيب المشاركات"
+
+#: blog-filter-settings.php:632
+msgid "Post Order By"
+msgstr "ترتيب المشاركات حسب"
+
+#: blog-filter-settings.php:640
+msgid "Post Order"
+msgstr "ترتيب المشاركة"
+
+#: blog-filter-settings.php:654
+msgid "Thumbnail Settings"
+msgstr "إعدادات الصورة المصغرة"
+
+#: blog-filter-settings.php:659
+msgid "Thumbanil Hover Effect"
+msgstr "تأثير تحويم الصورة المصغرة"
+
+#: blog-filter-settings.php:667
+msgid "Thumbnail Spacing"
+msgstr "مسافة الصور المصغرة"
+
+#: blog-filter-settings.php:681
+msgid "Try Pro Version"
+msgstr "جرب النسخة المحترفة"
+
+#: blog-filter-settings.php:686
+msgid "Update Sortcode, Without Regenerate It"
+msgstr "تحديث الكود دون إعادة توليده"
+
+#: blog-filter-settings.php:689
+msgid "See Post"
+msgstr "شاهد المشاركة"
+
+#: blog-filter-settings.php:694
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: blog-filter-settings.php:697
+msgid "Contact"
+msgstr "الاتصال"
+
+#: blog-filter-settings.php:702
+msgid "See Live Demo of Pro"
+msgstr "شاهد العرض التوضيحي المباشر للنسخة المحترفة"
+
+#: blog-filter-settings.php:705
+msgid "Live Demo"
+msgstr "عرض توضيحي مباشر"
+
+#: blog-filter-settings.php:710
+msgid "Buy Pro"
+msgstr "اشترِ النسخة المحترفة"
+
+#: blog-filter-settings.php:713
+msgid "Buy Pro Plugin"
+msgstr "شراء الإضافة المحترفة"
+
+#: blog-filter-settings.php:726
+msgid "Blog Filter"
+msgstr "فلتر المدونة"
+
+#: blog-filter-settings.php:729
+msgid "Version - "
+msgstr "الإصدار - "
+
+#: blog-filter-settings.php:738
+msgid "[ Generate Sortcode ]"
+msgstr "[ توليد الكود ]"
+
+#: blog-filter-settings.php:749
+msgid "Blog Filter Shortcode"
+msgstr "شورتكود فلتر المدونة"
+
+#: blog-filter-settings.php:752
+msgid "Copy The Shortcode"
+msgstr "نسخ الشورتكود"
+
+#: blog-filter-settings.php:756
+msgid "Copy Sortcode"
+msgstr "نسخ الكود"
+
+#: blog-filter.php:44
+msgid "Blog Filter Premium"
+msgstr "فلتر المدونة الفاخر"
+
+#: blog-filter.php:70
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: blog-filter.php:90
+msgid "Blog Filters Settings"
+msgstr "إعدادات فلاتر المدونة"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "تثبيت الإضافات المطلوبة"
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "جاري تثبيت الإضافة: %s"
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "جاري تحديث الإضافة: %s"
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "حدث خطأ ما مع واجهة برمجة تطبيقات الإضافة."
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "العودة إلى مثبت الإضافات المطلوبة"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "العودة إلى لوحة التحكم"
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr "تم تنشيط الإضافة بنجاح."
+
+#: class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "تم تنشيط الإضافة التالية بنجاح:"
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "لم تتخذ أي إجراء. الإضافة %1$s كانت نشطة بالفعل."
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"لم يتم تنشيط الإضافة. هناك حاجة إلى نسخة أعلى من %s لهذا النمط. يرجى تحديث "
+"الإضافة."
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "تم تثبيت وتنشيط جميع الإضافات بنجاح. %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "تجاهل هذا الإشعار"
+
+#: class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"هناك واحد أو أكثر من الإضافات المطلوبة أو الموصى بها للتثبيت، التحديث أو "
+"التفعيل."
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "يرجى الاتصال بمدير هذا الموقع للحصول على المساعدة."
+
+#: class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA الإصدار %s"
+
+#: class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr "مطلوب"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr "موصى به"
+
+#: class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr "مستودع ووردبريس"
+
+#: class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr "مصدر خارجي"
+
+#: class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr "مُعد مسبقًا"
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr "غير مُثبت"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr "مُثبت ولكن غير مفعل"
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr "نشط"
+
+#: class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr "التحديث المطلوب غير متوفر"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr "يتطلب تحديثًا"
+
+#: class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr "يُوصى بالتحديث"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr "النسخة المُثبتة:"
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr "النسخة الدنيا المطلوبة:"
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr "النسخة المتاحة:"
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr "الإضافة"
+
+#: class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr "المصدر"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr "النوع"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr "الإصدار"
+
+#: class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr "الحالة"
+
+#: class-tgm-plugin-activation.php:2716
+#, php-format
+msgid "Install %2$s"
+msgstr "تثبيت %2$s"
+
+#: class-tgm-plugin-activation.php:2721
+#, php-format
+msgid "Update %2$s"
+msgstr "تحديث %2$s"
+
+#: class-tgm-plugin-activation.php:2727
+#, php-format
+msgid "Activate %2$s"
+msgstr "تفعيل %2$s"
+
+#: class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr "تثبيت"
+
+#: class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr "تحديث"
+
+#: class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr "تفعيل"
+
+#: class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "لم يتم اختيار أي إضافات للتثبيت. لم يتم اتخاذ أي إجراء."
+
+#: class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "لم يتم اختيار أي إضافات للتحديث. لم يتم اتخاذ أي إجراء."
+
+#: class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr "لا توجد إضافات متاحة للتثبيت في هذا الوقت."
+
+#: class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr "لا توجد إضافات متاحة للتحديث في هذا الوقت."
+
+#: class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr "فشل تفعيل الإضافة."
+
+#: class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "جاري تحديث الإضافة %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "حدث خطأ أثناء تثبيت %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3620
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "فشل تثبيت %1$s."
+
+#: class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"يبدأ الآن عملية التثبيت والتفعيل. قد تستغرق هذه العملية وقتًا في بعض "
+"المضيفين، لذا يرجى التحلي بالصبر."
+
+#: class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "تم تثبيت وتفعيل %1$s بنجاح."
+
+#: class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr "تم إكمال جميع عمليات التثبيت والتفعيل."
+
+#: class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "جاري تثبيت وتفعيل الإضافة %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3632
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"يبدأ الآن عملية التثبيت. قد تستغرق هذه العملية وقتًا في بعض المضيفين، لذا "
+"يرجى التحلي بالصبر."
+
+#: class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr "تم إكمال جميع عمليات التثبيت."
+
+#: class-tgm-plugin-activation.php:3637
+#, fuzzy, php-format
+#| msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "جاري تحديث الإضافة %1$s (%2$d/%3$d)"

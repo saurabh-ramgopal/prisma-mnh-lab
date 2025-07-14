@@ -1,0 +1,677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-11-23 16:01+0530\n"
+"PO-Revision-Date: 2023-11-23 16:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-output.php:192
+msgid "By"
+msgstr "द्वारा"
+
+#: blog-filter-settings.php:18
+msgid "Blog Filter Settings Page"
+msgstr "ब्लॉग फिल्टर सेटिंग्स पेज"
+
+#: blog-filter-settings.php:25
+msgid "Column Settings"
+msgstr "कॉलम सेटिंग्स"
+
+#: blog-filter-settings.php:30
+#| msgid "Template Right To Left"
+msgid "Template Right To Left"
+msgstr "टेम्पलेट दाएँ से बाएँ"
+
+#: blog-filter-settings.php:41
+msgid "Same Size Grid"
+msgstr "समान आकार का ग्रिड"
+
+#: blog-filter-settings.php:52
+msgid "Column On Large Desktop"
+msgstr "बड़े डेस्कटॉप पर कॉलम"
+
+#: blog-filter-settings.php:56
+msgid "1 Column"
+msgstr "1 कॉलम"
+
+#: blog-filter-settings.php:57
+msgid "2 Column"
+msgstr "2 कॉलम"
+
+#: blog-filter-settings.php:58
+msgid "3 Column"
+msgstr "3 कॉलम"
+
+#: blog-filter-settings.php:59
+msgid "4 Column"
+msgstr "4 कॉलम"
+
+#: blog-filter-settings.php:60
+msgid "6 Column"
+msgstr "6 कॉलम"
+
+#: blog-filter-settings.php:61
+msgid "12 Column"
+msgstr "12 कॉलम"
+
+#: blog-filter-settings.php:67
+msgid "Column On Desktop"
+msgstr "डेस्कटॉप पर कॉलम"
+
+#: blog-filter-settings.php:70 blog-filter-settings.php:78 blog-filter-settings.php:86 blog-filter-settings.php:141
+#: blog-filter-settings.php:149 blog-filter-settings.php:198 blog-filter-settings.php:206
+#: blog-filter-settings.php:315 blog-filter-settings.php:364 blog-filter-settings.php:372
+#: blog-filter-settings.php:380 blog-filter-settings.php:388 blog-filter-settings.php:475
+#: blog-filter-settings.php:483 blog-filter-settings.php:491 blog-filter-settings.php:499
+#: blog-filter-settings.php:600 blog-filter-settings.php:608 blog-filter-settings.php:616
+#: blog-filter-settings.php:635 blog-filter-settings.php:643 blog-filter-settings.php:662
+#: blog-filter-settings.php:670
+msgid "Upgrade To Pro"
+msgstr "प्रो में अपग्रेड करें"
+
+#: blog-filter-settings.php:75
+msgid "Column On Tablet"
+msgstr "टैबलेट पर कॉलम"
+
+#: blog-filter-settings.php:83
+msgid "Column On Phone"
+msgstr "फोन पर कॉलम"
+
+#: blog-filter-settings.php:97
+msgid "Image Settings"
+msgstr "इमेज सेटिंग्स"
+
+#: blog-filter-settings.php:102
+msgid "Show Blog Images"
+msgstr "ब्लॉग इमेजेस दिखाएँ"
+
+#: blog-filter-settings.php:113
+msgid "Image Quality"
+msgstr "इमेज क्वालिटी"
+
+#: blog-filter-settings.php:117
+msgid "Thumbnail"
+msgstr "थंबनेल"
+
+#: blog-filter-settings.php:118
+msgid "Medium"
+msgstr "मध्यम"
+
+#: blog-filter-settings.php:119
+msgid "Large"
+msgstr "बड़ा"
+
+#: blog-filter-settings.php:120
+msgid "Full"
+msgstr "पूरा"
+
+#: blog-filter-settings.php:126
+msgid "Image Hover Effect"
+msgstr "इमेज होवर इफेक्ट"
+
+#: blog-filter-settings.php:130
+msgid "None"
+msgstr "कोई नहीं"
+
+#: blog-filter-settings.php:131
+msgid "Hover 1"
+msgstr "होवर 1"
+
+#: blog-filter-settings.php:135
+msgid "Get more hover effect in Pro"
+msgstr "प्रो में और होवर इफेक्ट प्राप्त करें"
+
+#: blog-filter-settings.php:138
+msgid "Link On Image"
+msgstr "इमेज पर लिंक"
+
+#: blog-filter-settings.php:146
+msgid "Lightbox On Image"
+msgstr "इमेज पर लाइटबॉक्स"
+
+#: blog-filter-settings.php:160
+msgid "Title Settings"
+msgstr "शीर्षक सेटिंग्स"
+
+#: blog-filter-settings.php:165
+msgid "Show Blog Title"
+msgstr "ब्लॉग शीर्षक दिखाएँ"
+
+#: blog-filter-settings.php:176
+msgid "Title Text Color"
+msgstr "शीर्षक टेक्स्ट का रंग"
+
+#: blog-filter-settings.php:184
+msgid "Title Font Size"
+msgstr "शीर्षक फ़ॉन्ट आकार"
+
+#: blog-filter-settings.php:195
+msgid "Title Below The Image"
+msgstr "इमेज के नीचे शीर्षक"
+
+#: blog-filter-settings.php:203
+msgid "Link On Title"
+msgstr "शीर्षक पर लिंक"
+
+#: blog-filter-settings.php:217
+msgid "Description Settings"
+msgstr "विवरण सेटिंग्स"
+
+#: blog-filter-settings.php:222
+msgid "Show Blog Description"
+msgstr "ब्लॉग विवरण दिखाएँ"
+
+#: blog-filter-settings.php:233
+msgid "Description Text Color"
+msgstr "विवरण टेक्स्ट का रंग"
+
+#: blog-filter-settings.php:241
+msgid "Description Box Color"
+msgstr "विवरण बॉक्स का रंग"
+
+#: blog-filter-settings.php:249
+msgid "Description Font Size"
+msgstr "विवरण के फ़ॉन्ट का आकार"
+
+#: blog-filter-settings.php:260
+msgid "How Much Characters Show In Description"
+msgstr "विवरण में कितने अक्षर दिखाएँ"
+
+#: blog-filter-settings.php:274
+msgid "Post Meta Settings"
+msgstr "पोस्ट मेटा सेटिंग्स"
+
+#: blog-filter-settings.php:279
+msgid "Show Post Date"
+msgstr "पोस्ट की तारीख दिखाएँ"
+
+#: blog-filter-settings.php:290
+msgid "Show Post Author"
+msgstr "पोस्ट लेखक दिखाएँ"
+
+#: blog-filter-settings.php:301
+msgid "Show Post Categories"
+msgstr "पोस्ट श्रेणियाँ दिखाएँ"
+
+#: blog-filter-settings.php:312
+msgid "Show Post Tags"
+msgstr "पोस्ट टैग्स दिखाएँ"
+
+#: blog-filter-settings.php:326
+msgid "Link (URL) Settings"
+msgstr "लिंक (URL) सेटिंग्स"
+
+#: blog-filter-settings.php:331
+msgid "Show Read More Link"
+msgstr "और पढ़ें लिंक दिखाएँ"
+
+#: blog-filter-settings.php:342
+msgid "Text For Read More Link"
+msgstr "और पढ़ें लिंक के लिए टेक्स्ट"
+
+#: blog-filter-settings.php:350
+msgid "Link On Date"
+msgstr "तारीख पर लिंक"
+
+#: blog-filter-settings.php:361
+msgid "Link On Author"
+msgstr "लेखक पर लिंक"
+
+#: blog-filter-settings.php:369
+msgid "Link On Category"
+msgstr "श्रेणी पर लिंक"
+
+#: blog-filter-settings.php:377
+msgid "Link On Tags"
+msgstr "टैग्स पर लिंक"
+
+#: blog-filter-settings.php:385
+msgid "Link Open In New Tab"
+msgstr "नए टैब में लिंक खोलें"
+
+#: blog-filter-settings.php:399
+msgid "Filter Settings"
+msgstr "फिल्टर सेटिंग्स"
+
+#: blog-filter-settings.php:404
+msgid "Show Filters"
+msgstr "फिल्टर दिखाएँ"
+
+#: blog-filter-settings.php:415
+msgid "Show Filter \"All\""
+msgstr "फिल्टर \"सभी\" दिखाएँ"
+
+#: blog-filter-settings.php:426
+msgid "Text For \"All\" Button"
+msgstr "\"सभी\" बटन के लिए टेक्स्ट"
+
+#: blog-filter-settings.php:434
+msgid "Show Post Count On Filters"
+msgstr "फिल्टर्स पर पोस्ट संख्या दिखाएँ"
+
+#: blog-filter-settings.php:445
+msgid "Buttons Color"
+msgstr "बटनों का रंग"
+
+#: blog-filter-settings.php:453
+msgid "Blog Search Field"
+msgstr "ब्लॉग खोज क्षेत्र"
+
+#: blog-filter-settings.php:464
+msgid "Text For Search"
+msgstr ""
+
+#: blog-filter-settings.php:472
+msgid "Multi-Filter In Same Time"
+msgstr "एक ही समय में मल्टी-फिल्टर"
+
+#: blog-filter-settings.php:480
+msgid "Select Default Filter"
+msgstr "डिफ़ॉल्ट फिल्टर चुनें"
+
+#: blog-filter-settings.php:488
+msgid "Exclude Posts"
+msgstr "पोस्ट्स को बाहर करें"
+
+#: blog-filter-settings.php:496
+msgid "URL Based Filtering"
+msgstr "URL आधारित फ़िल्टरिंग"
+
+#: blog-filter-settings.php:504
+msgid "Filtering with"
+msgstr "के साथ फ़िल्टरिंग"
+
+#: blog-filter-settings.php:508 blog-filter-settings.php:524
+msgid "Category"
+msgstr "श्रेणी"
+
+#: blog-filter-settings.php:509
+msgid "Tag"
+msgstr "टैग"
+
+#: blog-filter-settings.php:523 blog-filter-settings.php:553
+msgid "ID"
+msgstr "आईडी"
+
+#: blog-filter-settings.php:525
+msgid "Select"
+msgstr "चुनें"
+
+#: blog-filter-settings.php:541
+msgid "Note: In free version you can use only 4 categories as filters"
+msgstr "नोट: मुफ्त संस्करण में आप केवल 4 श्रेणियों को फिल्टर के रूप में उपयोग कर सकते हैं"
+
+#: blog-filter-settings.php:554
+msgid "Post Tag"
+msgstr "पोस्ट टैग"
+
+#: blog-filter-settings.php:571
+msgid "Note: In free version you can use only 4 tags as filters"
+msgstr "नोट: मुफ्त संस्करण में आप केवल 4 टैग्स को फिल्टर के रूप में उपयोग कर सकते हैं"
+
+#: blog-filter-settings.php:581
+msgid "Pagination Settings"
+msgstr "पेजिनेशन सेटिंग्स"
+
+#: blog-filter-settings.php:586
+msgid "Pagination"
+msgstr "पेजिनेशन"
+
+#: blog-filter-settings.php:597
+msgid "Blogs On Per Page"
+msgstr "प्रति पृष्ठ ब्लॉग्स"
+
+#: blog-filter-settings.php:605
+msgid "Load More"
+msgstr "और लोड करें"
+
+#: blog-filter-settings.php:613
+msgid "Load On Scroll"
+msgstr "स्क्रॉल पर लोड करें"
+
+#: blog-filter-settings.php:627
+msgid "Post Order Settings"
+msgstr "पोस्ट क्रम सेटिंग्स"
+
+#: blog-filter-settings.php:632
+msgid "Post Order By"
+msgstr "पोस्ट क्रम द्वारा"
+
+#: blog-filter-settings.php:640
+msgid "Post Order"
+msgstr "पोस्ट क्रम"
+
+#: blog-filter-settings.php:654
+msgid "Thumbnail Settings"
+msgstr "थंबनेल सेटिंग्स"
+
+#: blog-filter-settings.php:659
+msgid "Thumbanil Hover Effect"
+msgstr "थंबनेल होवर प्रभाव"
+
+#: blog-filter-settings.php:667
+msgid "Thumbnail Spacing"
+msgstr "थंबनेल की जगह"
+
+#: blog-filter-settings.php:681
+#| msgid "Try Pro Version"
+msgid "Try Pro Version"
+msgstr "प्रो संस्करण का प्रयास करें"
+
+#: blog-filter-settings.php:686
+msgid "Update Sortcode, Without Regenerate It"
+msgstr "सॉर्टकोड को अपडेट करें, बिना इसे फिर से बनाए"
+
+#: blog-filter-settings.php:689
+msgid "See Post"
+msgstr "पोस्ट देखें"
+
+#: blog-filter-settings.php:694
+msgid "Contact Us"
+msgstr "संपर्क करें"
+
+#: blog-filter-settings.php:697
+msgid "Contact"
+msgstr "संपर्क"
+
+#: blog-filter-settings.php:702
+msgid "See Live Demo of Pro"
+msgstr "प्रो का लाइव डेमो देखें"
+
+#: blog-filter-settings.php:705
+msgid "Live Demo"
+msgstr "लाइव डेमो"
+
+#: blog-filter-settings.php:710
+msgid "Buy Pro"
+msgstr "प्रो खरीदें"
+
+#: blog-filter-settings.php:713
+msgid "Buy Pro Plugin"
+msgstr "प्रो प्लगइन खरीदें"
+
+#: blog-filter-settings.php:726
+msgid "Blog Filter"
+msgstr "ब्लॉग फिल्टर"
+
+#: blog-filter-settings.php:729
+msgid "Version - "
+msgstr "संस्करण - "
+
+#: blog-filter-settings.php:738
+msgid "[ Generate Sortcode ]"
+msgstr "[ सॉर्टकोड जनरेट करें ]"
+
+#: blog-filter-settings.php:749
+msgid "Blog Filter Shortcode"
+msgstr "ब्लॉग फिल्टर शॉर्टकोड"
+
+#: blog-filter-settings.php:752
+msgid "Copy The Shortcode"
+msgstr "शॉर्टकोड कॉपी करें"
+
+#: blog-filter-settings.php:756
+msgid "Copy Sortcode"
+msgstr "सॉर्टकोड कॉपी करें"
+
+#: blog-filter.php:44
+msgid "Blog Filter Premium"
+msgstr "ब्लॉग फिल्टर प्रीमियम"
+
+#: blog-filter.php:70
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: blog-filter.php:90
+msgid "Blog Filters Settings"
+msgstr "ब्लॉग फिल्टर्स सेटिंग्स"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "आवश्यक प्लगइन्स इंस्टॉल करें"
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "प्लगइन्स इंस्टॉल करें"
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "प्लगइन इंस्टॉल कर रहे हैं: %s"
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "प्लगइन अपडेट कर रहे हैं: %s"
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "प्लगइन API के साथ कुछ गलत हुआ।"
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "आवश्यक प्लगइन्स इंस्टालर पर वापस जाएं"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "डैशबोर्ड पर वापस जाएं"
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr "प्लगइन सफलतापूर्वक सक्रिय किया गया।"
+
+#: class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "निम्नलिखित प्लगइन सफलतापूर्वक सक्रिय किया गया:"
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "कोई कार्रवाई नहीं की गई। प्लगइन %1$s पहले से ही सक्रिय था।"
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "प्लगइन सक्रिय नहीं किया गया। इस थीम के लिए %s का उच्च संस्करण आवश्यक है। कृपया प्लगइन अपडेट करें।"
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "सभी प्लगइन्स सफलतापूर्वक इंस्टॉल और सक्रिय किए गए। %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "इस सूचना को खारिज करें"
+
+#: class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "एक या एक से अधिक आवश्यक या अनुशंसित प्लगइन्स को इंस्टॉल, अपडेट या सक्रिय करने की आवश्यकता है।"
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "मदद के लिए कृपया इस साइट के प्रशासक से संपर्क करें।"
+
+#: class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr "आवश्यक"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr "अनुशंसित"
+
+#: class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr "वर्डप्रेस रिपॉजिटरी"
+
+#: class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr "बाहरी स्रोत"
+
+#: class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr "पूर्व-पैक"
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr "इंस्टॉल नहीं किया गया"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr "इंस्टॉल किया गया पर सक्रिय नहीं किया गया"
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr "सक्रिय"
+
+#: class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr "आवश्यक अपडेट उपलब्ध नहीं है"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr "अपडेट की आवश्यकता है"
+
+#: class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr "अपडेट की अनुशंसा की गई"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr "इंस्टॉल किया गया संस्करण:"
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr "आवश्यक न्यूनतम संस्करण:"
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr "उपलब्ध संस्करण:"
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr "प्लगइन"
+
+#: class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr "स्रोत"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr "प्रकार"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr "संस्करण"
+
+#: class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr "स्थिति"
+
+#: class-tgm-plugin-activation.php:2716
+#, php-format
+msgid "Install %2$s"
+msgstr "%2$s इंस्टॉल करें"
+
+#: class-tgm-plugin-activation.php:2721
+#, php-format
+msgid "Update %2$s"
+msgstr "%2$s अपडेट करें"
+
+#: class-tgm-plugin-activation.php:2727
+#, php-format
+msgid "Activate %2$s"
+msgstr "%2$s सक्रिय करें"
+
+#: class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr "इंस्टॉल करें"
+
+#: class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr "अपडेट करें"
+
+#: class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr "सक्रिय करें"
+
+#: class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "इंस्टॉल करने के लिए कोई प्लगइन्स नहीं चुने गए। कोई कार्रवाई नहीं की गई।"
+
+#: class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "अपडेट करने के लिए कोई प्लगइन्स नहीं चुने गए। कोई कार्रवाई नहीं की गई।"
+
+#: class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr "इस समय इंस्टॉल करने के लिए कोई प्लगइन्स उपलब्ध नहीं हैं।"
+
+#: class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr "इस समय अपडेट करने के लिए कोई प्लगइन्स उपलब्ध नहीं हैं।"
+
+#: class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr "प्लगइन सक्रियण विफल रहा।"
+
+#: class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "प्लगइन अपडेट कर रहे हैं %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s इंस्टॉल करते समय एक त्रुटि हुई: <strong>%2$s</strong>।"
+
+#: class-tgm-plugin-activation.php:3620
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s का इंस्टॉलेशन विफल रहा।"
+
+#: class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation and activation process is starting. This process may take a while on some hosts, so please be "
+"patient."
+msgstr "इंस्टॉलेशन और सक्रियण प्रक्रिया शुरू हो रही है। कुछ होस्ट्स पर इस प्रक्रिया में समय लग सकता है, कृपया धैर्य रखें।"
+
+#: class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s सफलतापूर्वक इंस्टॉल और सक्रिय किया गया।"
+
+#: class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr "सभी इंस्टॉलेशन और सक्रियण पूरे हो चुके हैं।"
+
+#: class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "प्लगइन इंस्टॉल कर रहे हैं और सक्रिय कर रहे हैं %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3632
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "इंस्टॉलेशन प्रक्रिया शुरू हो रही है। कुछ होस्ट्स पर इस प्रक्रिया में समय लग सकता है, कृपया धैर्य रखें।"
+
+#: class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr "सभी इंस्टॉलेशन पूरे हो चुके हैं।"
+
+#: class-tgm-plugin-activation.php:3637
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "प्लगइन इंस्टॉल कर रहे हैं %1$s (%2$d/%3$d)"

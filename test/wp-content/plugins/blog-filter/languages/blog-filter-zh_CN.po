@@ -1,0 +1,687 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Filter Translation for Chinese (Simplified)\n"
+"POT-Creation-Date: 2023-11-28 15:36+0530\n"
+"PO-Revision-Date: 2023-11-28 15:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-output.php:192
+msgid "By"
+msgstr "由"
+
+#: blog-filter-settings.php:18
+msgid "Blog Filter Settings Page"
+msgstr "博客筛选设置页面"
+
+#: blog-filter-settings.php:25
+msgid "Column Settings"
+msgstr "列设置"
+
+#: blog-filter-settings.php:30
+msgid "Template Right To Left"
+msgstr "模板从右到左"
+
+#: blog-filter-settings.php:41
+msgid "Same Size Grid"
+msgstr "相同大小的网格"
+
+#: blog-filter-settings.php:52
+msgid "Column On Large Desktop"
+msgstr "大桌面上的列"
+
+#: blog-filter-settings.php:56
+msgid "1 Column"
+msgstr "1列"
+
+#: blog-filter-settings.php:57
+msgid "2 Column"
+msgstr "2列"
+
+#: blog-filter-settings.php:58
+msgid "3 Column"
+msgstr "3列"
+
+#: blog-filter-settings.php:59
+msgid "4 Column"
+msgstr "4列"
+
+#: blog-filter-settings.php:60
+msgid "6 Column"
+msgstr "6列"
+
+#: blog-filter-settings.php:61
+msgid "12 Column"
+msgstr "12列"
+
+#: blog-filter-settings.php:67
+msgid "Column On Desktop"
+msgstr "桌面上的列"
+
+#: blog-filter-settings.php:70 blog-filter-settings.php:78
+#: blog-filter-settings.php:86 blog-filter-settings.php:141
+#: blog-filter-settings.php:149 blog-filter-settings.php:198
+#: blog-filter-settings.php:206 blog-filter-settings.php:315
+#: blog-filter-settings.php:364 blog-filter-settings.php:372
+#: blog-filter-settings.php:380 blog-filter-settings.php:388
+#: blog-filter-settings.php:475 blog-filter-settings.php:483
+#: blog-filter-settings.php:491 blog-filter-settings.php:499
+#: blog-filter-settings.php:600 blog-filter-settings.php:608
+#: blog-filter-settings.php:616 blog-filter-settings.php:635
+#: blog-filter-settings.php:643 blog-filter-settings.php:662
+#: blog-filter-settings.php:670
+msgid "Upgrade To Pro"
+msgstr "升级到专业版"
+
+#: blog-filter-settings.php:75
+msgid "Column On Tablet"
+msgstr "平板上的列"
+
+#: blog-filter-settings.php:83
+msgid "Column On Phone"
+msgstr "手机上的列"
+
+#: blog-filter-settings.php:97
+msgid "Image Settings"
+msgstr "图像设置"
+
+#: blog-filter-settings.php:102
+msgid "Show Blog Images"
+msgstr "显示博客图片"
+
+#: blog-filter-settings.php:113
+msgid "Image Quality"
+msgstr "图片质量"
+
+#: blog-filter-settings.php:117
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: blog-filter-settings.php:118
+msgid "Medium"
+msgstr "中等"
+
+#: blog-filter-settings.php:119
+msgid "Large"
+msgstr "大"
+
+#: blog-filter-settings.php:120
+msgid "Full"
+msgstr "完整"
+
+#: blog-filter-settings.php:126
+msgid "Image Hover Effect"
+msgstr "图片悬停效果"
+
+#: blog-filter-settings.php:130
+msgid "None"
+msgstr "无"
+
+#: blog-filter-settings.php:131
+msgid "Hover 1"
+msgstr "悬停1"
+
+#: blog-filter-settings.php:135
+msgid "Get more hover effect in Pro"
+msgstr "在专业版中获得更多悬停效果"
+
+#: blog-filter-settings.php:138
+msgid "Link On Image"
+msgstr "图片上的链接"
+
+#: blog-filter-settings.php:146
+msgid "Lightbox On Image"
+msgstr "图片上的灯箱效果"
+
+#: blog-filter-settings.php:160
+msgid "Title Settings"
+msgstr "标题设置"
+
+#: blog-filter-settings.php:165
+msgid "Show Blog Title"
+msgstr "显示博客标题"
+
+#: blog-filter-settings.php:176
+msgid "Title Text Color"
+msgstr "标题文字颜色"
+
+#: blog-filter-settings.php:184
+msgid "Title Font Size"
+msgstr "标题字体大小"
+
+#: blog-filter-settings.php:195
+msgid "Title Below The Image"
+msgstr "图片下方的标题"
+
+#: blog-filter-settings.php:203
+msgid "Link On Title"
+msgstr "标题上的链接"
+
+#: blog-filter-settings.php:217
+msgid "Description Settings"
+msgstr "描述设置"
+
+#: blog-filter-settings.php:222
+msgid "Show Blog Description"
+msgstr "显示博客描述"
+
+#: blog-filter-settings.php:233
+msgid "Description Text Color"
+msgstr "描述文字颜色"
+
+#: blog-filter-settings.php:241
+msgid "Description Box Color"
+msgstr "描述框颜色"
+
+#: blog-filter-settings.php:249
+msgid "Description Font Size"
+msgstr "描述字体大小"
+
+#: blog-filter-settings.php:260
+msgid "How Much Characters Show In Description"
+msgstr "描述中显示多少字符"
+
+#: blog-filter-settings.php:274
+msgid "Post Meta Settings"
+msgstr "文章元数据设置"
+
+#: blog-filter-settings.php:279
+msgid "Show Post Date"
+msgstr "显示文章日期"
+
+#: blog-filter-settings.php:290
+msgid "Show Post Author"
+msgstr "显示文章作者"
+
+#: blog-filter-settings.php:301
+msgid "Show Post Categories"
+msgstr "显示文章分类"
+
+#: blog-filter-settings.php:312
+msgid "Show Post Tags"
+msgstr "显示文章标签"
+
+#: blog-filter-settings.php:326
+msgid "Link (URL) Settings"
+msgstr "链接（URL）设置"
+
+#: blog-filter-settings.php:331
+msgid "Show Read More Link"
+msgstr "显示阅读更多链接"
+
+#: blog-filter-settings.php:342
+msgid "Text For Read More Link"
+msgstr "阅读更多链接的文字"
+
+#: blog-filter-settings.php:350
+msgid "Link On Date"
+msgstr "日期链接"
+
+#: blog-filter-settings.php:361
+msgid "Link On Author"
+msgstr "作者链接"
+
+#: blog-filter-settings.php:369
+msgid "Link On Category"
+msgstr "分类链接"
+
+#: blog-filter-settings.php:377
+msgid "Link On Tags"
+msgstr "标签链接"
+
+#: blog-filter-settings.php:385
+msgid "Link Open In New Tab"
+msgstr "在新标签页中打开链接"
+
+#: blog-filter-settings.php:399
+msgid "Filter Settings"
+msgstr "筛选设置"
+
+#: blog-filter-settings.php:404
+msgid "Show Filters"
+msgstr "显示筛选器"
+
+#: blog-filter-settings.php:415
+msgid "Show Filter \"All\""
+msgstr "显示“全部”筛选器"
+
+#: blog-filter-settings.php:426
+msgid "Text For \"All\" Button"
+msgstr "“全部”按钮的文字"
+
+#: blog-filter-settings.php:434
+msgid "Show Post Count On Filters"
+msgstr "在筛选器上显示文章数量"
+
+#: blog-filter-settings.php:445
+msgid "Buttons Color"
+msgstr "按钮颜色"
+
+#: blog-filter-settings.php:453
+msgid "Blog Search Field"
+msgstr "博客搜索字段"
+
+#: blog-filter-settings.php:464
+msgid "Text For Search"
+msgstr "搜索的文字"
+
+#: blog-filter-settings.php:472
+msgid "Multi-Filter In Same Time"
+msgstr "同时使用多个筛选器"
+
+#: blog-filter-settings.php:480
+msgid "Select Default Filter"
+msgstr "选择默认筛选器"
+
+#: blog-filter-settings.php:488
+msgid "Exclude Posts"
+msgstr "排除文章"
+
+#: blog-filter-settings.php:496
+msgid "URL Based Filtering"
+msgstr "基于URL的筛选"
+
+#: blog-filter-settings.php:504
+msgid "Filtering with"
+msgstr "筛选方式"
+
+#: blog-filter-settings.php:508 blog-filter-settings.php:524
+msgid "Category"
+msgstr "分类"
+
+#: blog-filter-settings.php:509
+msgid "Tag"
+msgstr "标签"
+
+#: blog-filter-settings.php:523 blog-filter-settings.php:553
+msgid "ID"
+msgstr "身份证"
+
+#: blog-filter-settings.php:525
+msgid "Select"
+msgstr "选择"
+
+#: blog-filter-settings.php:541
+msgid "Note: In free version you can use only 4 categories as filters"
+msgstr "注意：在免费版本中，您只能使用4个类别作为筛选器"
+
+#: blog-filter-settings.php:554
+msgid "Post Tag"
+msgstr "文章标签"
+
+#: blog-filter-settings.php:571
+msgid "Note: In free version you can use only 4 tags as filters"
+msgstr "注意：在免费版本中，您只能使用4个标签作为筛选器"
+
+#: blog-filter-settings.php:581
+msgid "Pagination Settings"
+msgstr "分页设置"
+
+#: blog-filter-settings.php:586
+msgid "Pagination"
+msgstr "分页"
+
+#: blog-filter-settings.php:597
+msgid "Blogs On Per Page"
+msgstr "每页的博客"
+
+#: blog-filter-settings.php:605
+msgid "Load More"
+msgstr "加载更多"
+
+#: blog-filter-settings.php:613
+msgid "Load On Scroll"
+msgstr "滚动加载"
+
+#: blog-filter-settings.php:627
+msgid "Post Order Settings"
+msgstr "文章顺序设置"
+
+#: blog-filter-settings.php:632
+msgid "Post Order By"
+msgstr "文章排序方式"
+
+#: blog-filter-settings.php:640
+msgid "Post Order"
+msgstr "文章顺序"
+
+#: blog-filter-settings.php:654
+msgid "Thumbnail Settings"
+msgstr "缩略图设置"
+
+#: blog-filter-settings.php:659
+msgid "Thumbanil Hover Effect"
+msgstr "缩略图悬停效果"
+
+#: blog-filter-settings.php:667
+msgid "Thumbnail Spacing"
+msgstr "缩略图间距"
+
+#: blog-filter-settings.php:681
+msgid "Try Pro Version"
+msgstr "尝试专业版"
+
+#: blog-filter-settings.php:686
+msgid "Update Sortcode, Without Regenerate It"
+msgstr "更新排序码，无需重新生成"
+
+#: blog-filter-settings.php:689
+msgid "See Post"
+msgstr "查看文章"
+
+#: blog-filter-settings.php:694
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: blog-filter-settings.php:697
+msgid "Contact"
+msgstr "联系"
+
+#: blog-filter-settings.php:702
+msgid "See Live Demo of Pro"
+msgstr "查看专业版的实时演示"
+
+#: blog-filter-settings.php:705
+msgid "Live Demo"
+msgstr "现场演示"
+
+#: blog-filter-settings.php:710
+msgid "Buy Pro"
+msgstr "购买专业版"
+
+#: blog-filter-settings.php:713
+msgid "Buy Pro Plugin"
+msgstr "购买专业插件"
+
+#: blog-filter-settings.php:726
+msgid "Blog Filter"
+msgstr "博客过滤器"
+
+#: blog-filter-settings.php:729
+msgid "Version - "
+msgstr "版本 - "
+
+#: blog-filter-settings.php:738
+msgid "[ Generate Sortcode ]"
+msgstr "[ 生成排序码 ]"
+
+#: blog-filter-settings.php:749
+msgid "Blog Filter Shortcode"
+msgstr "博客过滤器短代码"
+
+#: blog-filter-settings.php:752
+msgid "Copy The Shortcode"
+msgstr "复制短代码"
+
+#: blog-filter-settings.php:756
+msgid "Copy Sortcode"
+msgstr "复制排序码"
+
+#: blog-filter.php:44
+msgid "Blog Filter Premium"
+msgstr "博客过滤器高级版"
+
+#: blog-filter.php:70
+msgid "Settings"
+msgstr "设置"
+
+#: blog-filter.php:90
+msgid "Blog Filters Settings"
+msgstr "博客过滤器设置"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "安装所需插件"
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "正在安装插件：%s"
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "正在更新插件：%s"
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "插件API出现问题。"
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "返回到所需插件安装程序"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "返回到仪表板"
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr "插件成功激活。"
+
+#: class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "以下插件已成功激活："
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "未采取任何行动。插件 %1$s 已经处于活动状态。"
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "插件未激活。此主题需要更高版本的 %s。请更新插件。"
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件都已成功安装和激活。%1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "忽略此通知"
+
+#: class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "有一个或多个需要安装、更新或激活的必需或推荐插件。"
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系本网站管理员寻求帮助。"
+
+#: class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA 版本%s"
+
+#: class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr "必需的"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr "推荐的"
+
+#: class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr "WordPress 仓库"
+
+#: class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr "外部来源"
+
+#: class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr "预包装的"
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr "未安装"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr "已安装但未激活"
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr "活跃的"
+
+#: class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr "所需更新不可用"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr "推荐更新"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr "已安装版本："
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr "最低要求版本："
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr "可用版本："
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr "插件"
+
+#: class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr "来源"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr "类型"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr "版本"
+
+#: class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr "状态"
+
+#: class-tgm-plugin-activation.php:2716
+#, php-format
+msgid "Install %2$s"
+msgstr "安装 %2$s"
+
+#: class-tgm-plugin-activation.php:2721
+#, php-format
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#: class-tgm-plugin-activation.php:2727
+#, php-format
+msgid "Activate %2$s"
+msgstr "激活 %2$s"
+
+#: class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr "安装"
+
+#: class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr "更新"
+
+#: class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr "激活"
+
+#: class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "未选择要安装的插件。未采取任何行动。"
+
+#: class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "未选择要更新的插件。未采取任何行动。"
+
+#: class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr "目前没有可供安装的插件。"
+
+#: class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr "目前没有可供更新的插件。"
+
+#: class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在更新插件 %1$s（%2$d/%3$d）"
+
+#: class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装 %1$s 时发生错误：<strong>%2$s</strong>。"
+
+#: class-tgm-plugin-activation.php:3620
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s 安装失败。"
+
+#: class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"安装和激活过程正在开始。这个过程在某些主机上可能需要一些时间，请耐心等待。"
+
+#: class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 安装并成功激活。"
+
+#: class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr "所有安装和激活已经完成。"
+
+#: class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装并激活插件 %1$s（%2$d/%3$d）"
+
+#: class-tgm-plugin-activation.php:3632
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安装过程正在开始。这个过程在某些主机上可能需要一些时间，请耐心等待。"
+
+#: class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr "所有安装已经完成。"
+
+#: class-tgm-plugin-activation.php:3637
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装插件 %1$s（%2$d/%3$d）"

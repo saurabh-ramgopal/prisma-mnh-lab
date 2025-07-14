@@ -1,0 +1,699 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Filter Translation For Italian (Italy)\n"
+"POT-Creation-Date: 2023-11-29 14:56+0530\n"
+"PO-Revision-Date: 2023-11-29 14:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-output.php:192
+msgid "By"
+msgstr "Di"
+
+#: blog-filter-settings.php:18
+msgid "Blog Filter Settings Page"
+msgstr "Pagina Impostazioni Filtro Blog"
+
+#: blog-filter-settings.php:25
+msgid "Column Settings"
+msgstr "Impostazioni Colonna"
+
+#: blog-filter-settings.php:30
+msgid "Template Right To Left"
+msgstr "Modello Da Destra a Sinistra"
+
+#: blog-filter-settings.php:41
+msgid "Same Size Grid"
+msgstr "Griglia Stessa Dimensione"
+
+#: blog-filter-settings.php:52
+msgid "Column On Large Desktop"
+msgstr "Colonna Su Desktop Grande"
+
+#: blog-filter-settings.php:56
+msgid "1 Column"
+msgstr "1 Colonna"
+
+#: blog-filter-settings.php:57
+msgid "2 Column"
+msgstr "2 Colonne"
+
+#: blog-filter-settings.php:58
+msgid "3 Column"
+msgstr "3 Colonne"
+
+#: blog-filter-settings.php:59
+msgid "4 Column"
+msgstr "4 Colonne"
+
+#: blog-filter-settings.php:60
+msgid "6 Column"
+msgstr "6 Colonne"
+
+#: blog-filter-settings.php:61
+msgid "12 Column"
+msgstr "12 Colonne"
+
+#: blog-filter-settings.php:67
+msgid "Column On Desktop"
+msgstr "Colonna Su Desktop"
+
+#: blog-filter-settings.php:70 blog-filter-settings.php:78
+#: blog-filter-settings.php:86 blog-filter-settings.php:141
+#: blog-filter-settings.php:149 blog-filter-settings.php:198
+#: blog-filter-settings.php:206 blog-filter-settings.php:315
+#: blog-filter-settings.php:364 blog-filter-settings.php:372
+#: blog-filter-settings.php:380 blog-filter-settings.php:388
+#: blog-filter-settings.php:475 blog-filter-settings.php:483
+#: blog-filter-settings.php:491 blog-filter-settings.php:499
+#: blog-filter-settings.php:600 blog-filter-settings.php:608
+#: blog-filter-settings.php:616 blog-filter-settings.php:635
+#: blog-filter-settings.php:643 blog-filter-settings.php:662
+#: blog-filter-settings.php:670
+msgid "Upgrade To Pro"
+msgstr "Aggiorna a Pro"
+
+#: blog-filter-settings.php:75
+msgid "Column On Tablet"
+msgstr "Colonna Su Tablet"
+
+#: blog-filter-settings.php:83
+msgid "Column On Phone"
+msgstr "Colonna Su Telefono"
+
+#: blog-filter-settings.php:97
+msgid "Image Settings"
+msgstr "Impostazioni Immagine"
+
+#: blog-filter-settings.php:102
+msgid "Show Blog Images"
+msgstr "Mostra Immagini Blog"
+
+#: blog-filter-settings.php:113
+msgid "Image Quality"
+msgstr "Qualità dell'Immagine"
+
+#: blog-filter-settings.php:117
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: blog-filter-settings.php:118
+msgid "Medium"
+msgstr "Medio"
+
+#: blog-filter-settings.php:119
+msgid "Large"
+msgstr "Grande"
+
+#: blog-filter-settings.php:120
+msgid "Full"
+msgstr "Pieno"
+
+#: blog-filter-settings.php:126
+msgid "Image Hover Effect"
+msgstr "Effetto Hover dell'Immagine"
+
+#: blog-filter-settings.php:130
+msgid "None"
+msgstr "Nessuno"
+
+#: blog-filter-settings.php:131
+msgid "Hover 1"
+msgstr "Hover 1"
+
+#: blog-filter-settings.php:135
+msgid "Get more hover effect in Pro"
+msgstr "Ottieni più effetti hover in Pro"
+
+#: blog-filter-settings.php:138
+msgid "Link On Image"
+msgstr "Link sull'Immagine"
+
+#: blog-filter-settings.php:146
+msgid "Lightbox On Image"
+msgstr "Lightbox sull'Immagine"
+
+#: blog-filter-settings.php:160
+msgid "Title Settings"
+msgstr "Impostazioni del Titolo"
+
+#: blog-filter-settings.php:165
+msgid "Show Blog Title"
+msgstr "Mostra Titolo del Blog"
+
+#: blog-filter-settings.php:176
+msgid "Title Text Color"
+msgstr "Colore del Testo del Titolo"
+
+#: blog-filter-settings.php:184
+msgid "Title Font Size"
+msgstr "Dimensione del Font del Titolo"
+
+#: blog-filter-settings.php:195
+msgid "Title Below The Image"
+msgstr "Titolo Sotto l'Immagine"
+
+#: blog-filter-settings.php:203
+msgid "Link On Title"
+msgstr "Link sul Titolo"
+
+#: blog-filter-settings.php:217
+msgid "Description Settings"
+msgstr "Impostazioni della Descrizione"
+
+#: blog-filter-settings.php:222
+msgid "Show Blog Description"
+msgstr "Mostra Descrizione del Blog"
+
+#: blog-filter-settings.php:233
+msgid "Description Text Color"
+msgstr "Colore del Testo della Descrizione"
+
+#: blog-filter-settings.php:241
+msgid "Description Box Color"
+msgstr "Colore della Casella di Descrizione"
+
+#: blog-filter-settings.php:249
+msgid "Description Font Size"
+msgstr "Dimensione del Font della Descrizione"
+
+#: blog-filter-settings.php:260
+msgid "How Much Characters Show In Description"
+msgstr "Quanti Caratteri Mostrare Nella Descrizione"
+
+#: blog-filter-settings.php:274
+msgid "Post Meta Settings"
+msgstr "Impostazioni Meta del Post"
+
+#: blog-filter-settings.php:279
+msgid "Show Post Date"
+msgstr "Mostra Data del Post"
+
+#: blog-filter-settings.php:290
+msgid "Show Post Author"
+msgstr "Mostra Autore del Post"
+
+#: blog-filter-settings.php:301
+msgid "Show Post Categories"
+msgstr "Mostra Categorie del Post"
+
+#: blog-filter-settings.php:312
+msgid "Show Post Tags"
+msgstr "Mostra Tag del Post"
+
+#: blog-filter-settings.php:326
+msgid "Link (URL) Settings"
+msgstr "Impostazioni Link (URL)"
+
+#: blog-filter-settings.php:331
+msgid "Show Read More Link"
+msgstr "Mostra Link 'Leggi di Più'"
+
+#: blog-filter-settings.php:342
+msgid "Text For Read More Link"
+msgstr "Testo per il Link 'Leggi di Più'"
+
+#: blog-filter-settings.php:350
+msgid "Link On Date"
+msgstr "Link sulla Data"
+
+#: blog-filter-settings.php:361
+msgid "Link On Author"
+msgstr "Link sull'Autore"
+
+#: blog-filter-settings.php:369
+msgid "Link On Category"
+msgstr "Link sulla Categoria"
+
+#: blog-filter-settings.php:377
+msgid "Link On Tags"
+msgstr "Link sui Tag"
+
+#: blog-filter-settings.php:385
+msgid "Link Open In New Tab"
+msgstr "Link si Apre in una Nuova Scheda"
+
+#: blog-filter-settings.php:399
+msgid "Filter Settings"
+msgstr "Impostazioni del Filtro"
+
+#: blog-filter-settings.php:404
+msgid "Show Filters"
+msgstr "Mostra Filtri"
+
+#: blog-filter-settings.php:415
+msgid "Show Filter \"All\""
+msgstr "Mostra Filtro 'Tutti'"
+
+#: blog-filter-settings.php:426
+msgid "Text For \"All\" Button"
+msgstr "Testo per il Pulsante 'Tutti'"
+
+#: blog-filter-settings.php:434
+msgid "Show Post Count On Filters"
+msgstr "Mostra Conteggio Post nei Filtri"
+
+#: blog-filter-settings.php:445
+msgid "Buttons Color"
+msgstr "Colore dei Pulsanti"
+
+#: blog-filter-settings.php:453
+msgid "Blog Search Field"
+msgstr "Campo di Ricerca del Blog"
+
+#: blog-filter-settings.php:464
+msgid "Text For Search"
+msgstr "Testo per la Ricerca"
+
+#: blog-filter-settings.php:472
+msgid "Multi-Filter In Same Time"
+msgstr "Multi-Filtro Contemporaneamente"
+
+#: blog-filter-settings.php:480
+msgid "Select Default Filter"
+msgstr "Seleziona Filtro Predefinito"
+
+#: blog-filter-settings.php:488
+msgid "Exclude Posts"
+msgstr "Escludi Post"
+
+#: blog-filter-settings.php:496
+msgid "URL Based Filtering"
+msgstr "Filtraggio Basato su URL"
+
+#: blog-filter-settings.php:504
+msgid "Filtering with"
+msgstr "Filtraggio con"
+
+#: blog-filter-settings.php:508 blog-filter-settings.php:524
+msgid "Category"
+msgstr "Categoria"
+
+#: blog-filter-settings.php:509
+msgid "Tag"
+msgstr "Tag"
+
+#: blog-filter-settings.php:523 blog-filter-settings.php:553
+msgid "ID"
+msgstr "ID"
+
+#: blog-filter-settings.php:525
+msgid "Select"
+msgstr "Seleziona"
+
+#: blog-filter-settings.php:541
+msgid "Note: In free version you can use only 4 categories as filters"
+msgstr "Nota: Nella versione gratuita puoi usare solo 4 categorie come filtri"
+
+#: blog-filter-settings.php:554
+msgid "Post Tag"
+msgstr "Tag del Post"
+
+#: blog-filter-settings.php:571
+msgid "Note: In free version you can use only 4 tags as filters"
+msgstr "Nota: Nella versione gratuita puoi usare solo 4 tag come filtri"
+
+#: blog-filter-settings.php:581
+msgid "Pagination Settings"
+msgstr "Impostazioni di Paginazione"
+
+#: blog-filter-settings.php:586
+msgid "Pagination"
+msgstr "Paginazione"
+
+#: blog-filter-settings.php:597
+msgid "Blogs On Per Page"
+msgstr "Blog per Pagina"
+
+#: blog-filter-settings.php:605
+msgid "Load More"
+msgstr "Carica Altro"
+
+#: blog-filter-settings.php:613
+msgid "Load On Scroll"
+msgstr "Carica allo Scorrimento"
+
+#: blog-filter-settings.php:627
+msgid "Post Order Settings"
+msgstr "Impostazioni Ordine dei Post"
+
+#: blog-filter-settings.php:632
+msgid "Post Order By"
+msgstr "Ordine dei Post Per"
+
+#: blog-filter-settings.php:640
+msgid "Post Order"
+msgstr "Ordine dei Post"
+
+#: blog-filter-settings.php:654
+msgid "Thumbnail Settings"
+msgstr "Impostazioni Miniatura"
+
+#: blog-filter-settings.php:659
+msgid "Thumbanil Hover Effect"
+msgstr "Effetto Hover sulla Miniatura"
+
+#: blog-filter-settings.php:667
+msgid "Thumbnail Spacing"
+msgstr "Spaziatura Miniatura"
+
+#: blog-filter-settings.php:681
+msgid "Try Pro Version"
+msgstr "Prova la Versione Pro"
+
+#: blog-filter-settings.php:686
+msgid "Update Sortcode, Without Regenerate It"
+msgstr "Aggiorna Codice di Ordinamento, Senza Rigenerarlo"
+
+#: blog-filter-settings.php:689
+msgid "See Post"
+msgstr "Vedi Post"
+
+#: blog-filter-settings.php:694
+msgid "Contact Us"
+msgstr "Contattaci"
+
+#: blog-filter-settings.php:697
+msgid "Contact"
+msgstr "Contatto"
+
+#: blog-filter-settings.php:702
+msgid "See Live Demo of Pro"
+msgstr "Vedi la Demo dal Vivo della Versione Pro"
+
+#: blog-filter-settings.php:705
+msgid "Live Demo"
+msgstr "Demo dal Vivo"
+
+#: blog-filter-settings.php:710
+msgid "Buy Pro"
+msgstr "Acquista Pro"
+
+#: blog-filter-settings.php:713
+msgid "Buy Pro Plugin"
+msgstr "Acquista Plugin Pro"
+
+#: blog-filter-settings.php:726
+msgid "Blog Filter"
+msgstr "Filtro Blog"
+
+#: blog-filter-settings.php:729
+msgid "Version - "
+msgstr "Versione - "
+
+#: blog-filter-settings.php:738
+msgid "[ Generate Sortcode ]"
+msgstr "[ Genera Codice di Ordinamento ]"
+
+#: blog-filter-settings.php:749
+msgid "Blog Filter Shortcode"
+msgstr "Codice Breve Filtro Blog"
+
+#: blog-filter-settings.php:752
+msgid "Copy The Shortcode"
+msgstr "Copia il Codice Breve"
+
+#: blog-filter-settings.php:756
+msgid "Copy Sortcode"
+msgstr "Copia Codice di Ordinamento"
+
+#: blog-filter.php:44
+msgid "Blog Filter Premium"
+msgstr "Filtro Blog Premium"
+
+#: blog-filter.php:70
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: blog-filter.php:90
+msgid "Blog Filters Settings"
+msgstr "Impostazioni Filtri Blog"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Installa Plugin Richiesti"
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installa Plugin"
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installazione del Plugin: %s"
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Aggiornamento del Plugin: %s"
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Qualcosa è andato storto con l'API del plugin."
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Ritorna all'Installatore dei Plugin Richiesti"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "Ritorna alla Dashboard"
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr "Plugin attivato con successo."
+
+#: class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "Il seguente plugin è stato attivato con successo:"
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nessuna azione intrapresa. Il plugin %1$s era già attivo."
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin non attivato. È necessaria una versione più recente di %s per questo "
+"tema. Si prega di aggiornare il plugin."
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tutti i plugin sono stati installati e attivati con successo. %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Ignora questo avviso"
+
+#: class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Ci sono uno o più plugin richiesti o consigliati da installare, aggiornare o "
+"attivare."
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Si prega di contattare l'amministratore di questo sito per assistenza."
+
+#: class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr "Richiesto"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr "Consigliato"
+
+#: class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr "Repository WordPress"
+
+#: class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr "Fonte Esterna"
+
+#: class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr "Preconfezionato"
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr "Non Installato"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr "Installato Ma Non Attivato"
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr "Attivo"
+
+#: class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr "Aggiornamento Richiesto Non Disponibile"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr "Richiede Aggiornamento"
+
+#: class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr "Aggiornamento Consigliato"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr "Versione Installata:"
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr "Versione Minima Richiesta:"
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr "Versione Disponibile:"
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr "Fonte"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr "Tipo"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr "Versione"
+
+#: class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr "Stato"
+
+#: class-tgm-plugin-activation.php:2716
+#, php-format
+msgid "Install %2$s"
+msgstr "Installa %2$s"
+
+#: class-tgm-plugin-activation.php:2721
+#, php-format
+msgid "Update %2$s"
+msgstr "Aggiorna %2$s"
+
+#: class-tgm-plugin-activation.php:2727
+#, php-format
+msgid "Activate %2$s"
+msgstr "Attiva %2$s"
+
+#: class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr "Installa"
+
+#: class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr "Aggiorna"
+
+#: class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr "Attiva"
+
+#: class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Nessun plugin è stato selezionato per l'installazione. Nessuna azione "
+"intrapresa."
+
+#: class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Nessun plugin è stato selezionato per l'aggiornamento. Nessuna azione "
+"intrapresa."
+
+#: class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr "Al momento non ci sono plugin disponibili per l'installazione."
+
+#: class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr "Al momento non ci sono plugin disponibili per l'aggiornamento."
+
+#: class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr "Attivazione del plugin fallita."
+
+#: class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aggiornamento Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Si è verificato un errore durante l'installazione di %1$s: <strong>%2$s</"
+"strong>."
+
+#: class-tgm-plugin-activation.php:3620
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installazione di %1$s è fallita."
+
+#: class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Sta iniziando il processo di installazione e attivazione. Questo processo "
+"può richiedere del tempo su alcuni host, si prega di essere pazienti."
+
+#: class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installato e attivato con successo."
+
+#: class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr "Tutte le installazioni e attivazioni sono state completate."
+
+#: class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione e Attivazione del Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3632
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Sta iniziando il processo di installazione. Questo processo può richiedere "
+"del tempo su alcuni host, si prega di essere pazienti."
+
+#: class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr "Tutte le installazioni sono state completate."
+
+#: class-tgm-plugin-activation.php:3637
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione del Plugin %1$s (%2$d/%3$d)"

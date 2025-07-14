@@ -1,0 +1,700 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Filter Translation For Indonesian (Indonesia)\n"
+"POT-Creation-Date: 2023-11-29 15:43+0530\n"
+"PO-Revision-Date: 2023-11-29 15:43+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-output.php:192
+msgid "By"
+msgstr "Oleh"
+
+#: blog-filter-settings.php:18
+msgid "Blog Filter Settings Page"
+msgstr "Halaman Pengaturan Filter Blog"
+
+#: blog-filter-settings.php:25
+msgid "Column Settings"
+msgstr "Pengaturan Kolom"
+
+#: blog-filter-settings.php:30
+msgid "Template Right To Left"
+msgstr "Template Dari Kanan ke Kiri"
+
+#: blog-filter-settings.php:41
+msgid "Same Size Grid"
+msgstr "Grid Ukuran Sama"
+
+#: blog-filter-settings.php:52
+msgid "Column On Large Desktop"
+msgstr "Kolom di Desktop Besar"
+
+#: blog-filter-settings.php:56
+msgid "1 Column"
+msgstr "1 Kolom"
+
+#: blog-filter-settings.php:57
+msgid "2 Column"
+msgstr "2 Kolom"
+
+#: blog-filter-settings.php:58
+msgid "3 Column"
+msgstr "3 Kolom"
+
+#: blog-filter-settings.php:59
+msgid "4 Column"
+msgstr "4 Kolom"
+
+#: blog-filter-settings.php:60
+msgid "6 Column"
+msgstr "6 Kolom"
+
+#: blog-filter-settings.php:61
+msgid "12 Column"
+msgstr "12 Kolom"
+
+#: blog-filter-settings.php:67
+msgid "Column On Desktop"
+msgstr "Kolom di Desktop"
+
+#: blog-filter-settings.php:70 blog-filter-settings.php:78
+#: blog-filter-settings.php:86 blog-filter-settings.php:141
+#: blog-filter-settings.php:149 blog-filter-settings.php:198
+#: blog-filter-settings.php:206 blog-filter-settings.php:315
+#: blog-filter-settings.php:364 blog-filter-settings.php:372
+#: blog-filter-settings.php:380 blog-filter-settings.php:388
+#: blog-filter-settings.php:475 blog-filter-settings.php:483
+#: blog-filter-settings.php:491 blog-filter-settings.php:499
+#: blog-filter-settings.php:600 blog-filter-settings.php:608
+#: blog-filter-settings.php:616 blog-filter-settings.php:635
+#: blog-filter-settings.php:643 blog-filter-settings.php:662
+#: blog-filter-settings.php:670
+msgid "Upgrade To Pro"
+msgstr "Tingkatkan ke Pro"
+
+#: blog-filter-settings.php:75
+msgid "Column On Tablet"
+msgstr "Kolom di Tablet"
+
+#: blog-filter-settings.php:83
+msgid "Column On Phone"
+msgstr "Kolom di Ponsel"
+
+#: blog-filter-settings.php:97
+msgid "Image Settings"
+msgstr "Pengaturan Gambar"
+
+#: blog-filter-settings.php:102
+msgid "Show Blog Images"
+msgstr "Tampilkan Gambar Blog"
+
+#: blog-filter-settings.php:113
+msgid "Image Quality"
+msgstr "Kualitas Gambar"
+
+#: blog-filter-settings.php:117
+msgid "Thumbnail"
+msgstr "Gambar Mini"
+
+#: blog-filter-settings.php:118
+msgid "Medium"
+msgstr "Sedang"
+
+#: blog-filter-settings.php:119
+msgid "Large"
+msgstr "Besar"
+
+#: blog-filter-settings.php:120
+msgid "Full"
+msgstr "Penuh"
+
+#: blog-filter-settings.php:126
+msgid "Image Hover Effect"
+msgstr "Efek Hover Gambar"
+
+#: blog-filter-settings.php:130
+msgid "None"
+msgstr "Tidak Ada"
+
+#: blog-filter-settings.php:131
+msgid "Hover 1"
+msgstr "Hover 1"
+
+#: blog-filter-settings.php:135
+msgid "Get more hover effect in Pro"
+msgstr "Dapatkan lebih banyak efek hover di Pro"
+
+#: blog-filter-settings.php:138
+msgid "Link On Image"
+msgstr "Link pada Gambar"
+
+#: blog-filter-settings.php:146
+msgid "Lightbox On Image"
+msgstr "Lightbox pada Gambar"
+
+#: blog-filter-settings.php:160
+msgid "Title Settings"
+msgstr "Pengaturan Judul"
+
+#: blog-filter-settings.php:165
+msgid "Show Blog Title"
+msgstr "Tampilkan Judul Blog"
+
+#: blog-filter-settings.php:176
+msgid "Title Text Color"
+msgstr "Warna Teks Judul"
+
+#: blog-filter-settings.php:184
+msgid "Title Font Size"
+msgstr "Ukuran Font Judul"
+
+#: blog-filter-settings.php:195
+msgid "Title Below The Image"
+msgstr "Judul di Bawah Gambar"
+
+#: blog-filter-settings.php:203
+msgid "Link On Title"
+msgstr "Link pada Judul"
+
+#: blog-filter-settings.php:217
+msgid "Description Settings"
+msgstr "Pengaturan Deskripsi"
+
+#: blog-filter-settings.php:222
+msgid "Show Blog Description"
+msgstr "Tampilkan Deskripsi Blog"
+
+#: blog-filter-settings.php:233
+msgid "Description Text Color"
+msgstr "Warna Teks Deskripsi"
+
+#: blog-filter-settings.php:241
+msgid "Description Box Color"
+msgstr "Warna Kotak Deskripsi"
+
+#: blog-filter-settings.php:249
+msgid "Description Font Size"
+msgstr "Ukuran Font Deskripsi"
+
+#: blog-filter-settings.php:260
+msgid "How Much Characters Show In Description"
+msgstr "Berapa Banyak Karakter yang Ditampilkan dalam Deskripsi"
+
+#: blog-filter-settings.php:274
+msgid "Post Meta Settings"
+msgstr "Pengaturan Meta Posting"
+
+#: blog-filter-settings.php:279
+msgid "Show Post Date"
+msgstr "Tampilkan Tanggal Posting"
+
+#: blog-filter-settings.php:290
+msgid "Show Post Author"
+msgstr "Tampilkan Penulis Posting"
+
+#: blog-filter-settings.php:301
+msgid "Show Post Categories"
+msgstr "Tampilkan Kategori Posting"
+
+#: blog-filter-settings.php:312
+msgid "Show Post Tags"
+msgstr "Tampilkan Tag Posting"
+
+#: blog-filter-settings.php:326
+msgid "Link (URL) Settings"
+msgstr "Pengaturan Link (URL)"
+
+#: blog-filter-settings.php:331
+msgid "Show Read More Link"
+msgstr "Tampilkan Link 'Baca Selengkapnya'"
+
+#: blog-filter-settings.php:342
+msgid "Text For Read More Link"
+msgstr "Teks untuk Link 'Baca Selengkapnya'"
+
+#: blog-filter-settings.php:350
+msgid "Link On Date"
+msgstr "Link pada Tanggal"
+
+#: blog-filter-settings.php:361
+msgid "Link On Author"
+msgstr "Link pada Penulis"
+
+#: blog-filter-settings.php:369
+msgid "Link On Category"
+msgstr "Link pada Kategori"
+
+#: blog-filter-settings.php:377
+msgid "Link On Tags"
+msgstr "Link pada Tag"
+
+#: blog-filter-settings.php:385
+msgid "Link Open In New Tab"
+msgstr "Link Dibuka di Tab Baru"
+
+#: blog-filter-settings.php:399
+msgid "Filter Settings"
+msgstr "Pengaturan Filter"
+
+#: blog-filter-settings.php:404
+msgid "Show Filters"
+msgstr "Tampilkan Filter"
+
+#: blog-filter-settings.php:415
+msgid "Show Filter \"All\""
+msgstr "Tampilkan Filter 'Semua'"
+
+#: blog-filter-settings.php:426
+msgid "Text For \"All\" Button"
+msgstr "Teks untuk Tombol 'Semua'"
+
+#: blog-filter-settings.php:434
+msgid "Show Post Count On Filters"
+msgstr "Tampilkan Jumlah Posting pada Filter"
+
+#: blog-filter-settings.php:445
+msgid "Buttons Color"
+msgstr "Warna Tombol"
+
+#: blog-filter-settings.php:453
+msgid "Blog Search Field"
+msgstr "Kolom Pencarian Blog"
+
+#: blog-filter-settings.php:464
+msgid "Text For Search"
+msgstr "Teks untuk Pencarian"
+
+#: blog-filter-settings.php:472
+msgid "Multi-Filter In Same Time"
+msgstr "Multi-Filter pada Waktu yang Sama"
+
+#: blog-filter-settings.php:480
+msgid "Select Default Filter"
+msgstr "Pilih Filter Default"
+
+#: blog-filter-settings.php:488
+msgid "Exclude Posts"
+msgstr "Kecualikan Posting"
+
+#: blog-filter-settings.php:496
+msgid "URL Based Filtering"
+msgstr "Pengaturan Berdasarkan URL"
+
+#: blog-filter-settings.php:504
+msgid "Filtering with"
+msgstr "Pengaturan dengan"
+
+#: blog-filter-settings.php:508 blog-filter-settings.php:524
+msgid "Category"
+msgstr "Kategori"
+
+#: blog-filter-settings.php:509
+msgid "Tag"
+msgstr "Tag"
+
+#: blog-filter-settings.php:523 blog-filter-settings.php:553
+msgid "ID"
+msgstr "ID"
+
+#: blog-filter-settings.php:525
+msgid "Select"
+msgstr "Pilih"
+
+#: blog-filter-settings.php:541
+msgid "Note: In free version you can use only 4 categories as filters"
+msgstr ""
+"Catatan: Pada versi gratis, Anda hanya dapat menggunakan 4 kategori sebagai "
+"filter"
+
+#: blog-filter-settings.php:554
+msgid "Post Tag"
+msgstr "Tag Posting"
+
+#: blog-filter-settings.php:571
+msgid "Note: In free version you can use only 4 tags as filters"
+msgstr ""
+"Catatan: Pada versi gratis, Anda hanya dapat menggunakan 4 tag sebagai filter"
+
+#: blog-filter-settings.php:581
+msgid "Pagination Settings"
+msgstr "Pengaturan Paginasi"
+
+#: blog-filter-settings.php:586
+msgid "Pagination"
+msgstr "Paginasi"
+
+#: blog-filter-settings.php:597
+msgid "Blogs On Per Page"
+msgstr "Blog Per Halaman"
+
+#: blog-filter-settings.php:605
+msgid "Load More"
+msgstr "Muat Lebih Banyak"
+
+#: blog-filter-settings.php:613
+msgid "Load On Scroll"
+msgstr "Muat Saat Menggulir"
+
+#: blog-filter-settings.php:627
+msgid "Post Order Settings"
+msgstr "Pengaturan Urutan Posting"
+
+#: blog-filter-settings.php:632
+msgid "Post Order By"
+msgstr "Urutan Posting Berdasarkan"
+
+#: blog-filter-settings.php:640
+msgid "Post Order"
+msgstr "Urutan Posting"
+
+#: blog-filter-settings.php:654
+msgid "Thumbnail Settings"
+msgstr "Pengaturan Thumbnail"
+
+#: blog-filter-settings.php:659
+msgid "Thumbanil Hover Effect"
+msgstr "Efek Hover Thumbnail"
+
+#: blog-filter-settings.php:667
+msgid "Thumbnail Spacing"
+msgstr "Jarak Thumbnail"
+
+#: blog-filter-settings.php:681
+msgid "Try Pro Version"
+msgstr "Coba Versi Pro"
+
+#: blog-filter-settings.php:686
+msgid "Update Sortcode, Without Regenerate It"
+msgstr "Perbarui Kode Urut, Tanpa Meregenerasinya"
+
+#: blog-filter-settings.php:689
+msgid "See Post"
+msgstr "Lihat Posting"
+
+#: blog-filter-settings.php:694
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+#: blog-filter-settings.php:697
+msgid "Contact"
+msgstr "Kontak"
+
+#: blog-filter-settings.php:702
+msgid "See Live Demo of Pro"
+msgstr "Lihat Demo Langsung dari Versi Pro"
+
+#: blog-filter-settings.php:705
+msgid "Live Demo"
+msgstr "Demo Langsung"
+
+#: blog-filter-settings.php:710
+msgid "Buy Pro"
+msgstr "Beli Versi Pro"
+
+#: blog-filter-settings.php:713
+msgid "Buy Pro Plugin"
+msgstr "Beli Plugin Pro"
+
+#: blog-filter-settings.php:726
+msgid "Blog Filter"
+msgstr "Filter Blog"
+
+#: blog-filter-settings.php:729
+msgid "Version - "
+msgstr "Versi - "
+
+#: blog-filter-settings.php:738
+msgid "[ Generate Sortcode ]"
+msgstr "[ Hasilkan Kode Urut ]"
+
+#: blog-filter-settings.php:749
+msgid "Blog Filter Shortcode"
+msgstr "Kode Pendek Filter Blog"
+
+#: blog-filter-settings.php:752
+msgid "Copy The Shortcode"
+msgstr "Salin Kode Pendek"
+
+#: blog-filter-settings.php:756
+msgid "Copy Sortcode"
+msgstr "Salin Kode Urut"
+
+#: blog-filter.php:44
+msgid "Blog Filter Premium"
+msgstr "Filter Blog Premium"
+
+#: blog-filter.php:70
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: blog-filter.php:90
+msgid "Blog Filters Settings"
+msgstr "Pengaturan Filter Blog"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Instal Plugin yang Diperlukan"
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Instal Plugin"
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Menginstal Plugin: %s"
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Memperbarui Plugin: %s"
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Ada kesalahan dengan API plugin."
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Instalasi Plugin yang Diperlukan"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr "Plugin berhasil diaktifkan."
+
+#: class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "Plugin berikut berhasil diaktifkan:"
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak ada tindakan yang diambil. Plugin %1$s sudah aktif."
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin tidak diaktifkan. Versi yang lebih tinggi dari %s diperlukan untuk "
+"tema ini. Harap perbarui plugin."
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin berhasil diinstal dan diaktifkan. %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Abaikan pemberitahuan ini"
+
+#: class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Ada satu atau lebih plugin yang diperlukan atau direkomendasikan untuk "
+"diinstal, diperbarui, atau diaktifkan."
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Silakan hubungi administrator situs ini untuk bantuan."
+
+#: class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr "Diperlukan"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr "Direkomendasikan"
+
+#: class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr "Repositori WordPress"
+
+#: class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr "Sumber Eksternal"
+
+#: class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr "Pra-Paket"
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr "Belum Terinstal"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr "Terinstal Namun Tidak Diaktifkan"
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr "Aktif"
+
+#: class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr "Pembaruan yang Diperlukan Tidak Tersedia"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr "Memerlukan Pembaruan"
+
+#: class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr "Pembaruan Disarankan"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr "Versi Terinstal:"
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr "Versi Minimum yang Diperlukan:"
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr "Versi yang Tersedia:"
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr "Sumber"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr "Tipe"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr "Versi"
+
+#: class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2716
+#, php-format
+msgid "Install %2$s"
+msgstr "Instal %2$s"
+
+#: class-tgm-plugin-activation.php:2721
+#, php-format
+msgid "Update %2$s"
+msgstr "Perbarui %2$s"
+
+#: class-tgm-plugin-activation.php:2727
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktifkan %2$s"
+
+#: class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr "Instal"
+
+#: class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr "Perbarui"
+
+#: class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih untuk diinstal. Tidak ada tindakan yang "
+"diambil."
+
+#: class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih untuk diperbarui. Tidak ada tindakan yang "
+"diambil."
+
+#: class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diinstal pada saat ini."
+
+#: class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diperbarui pada saat ini."
+
+#: class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr "Aktivasi plugin gagal."
+
+#: class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memperbarui Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi kesalahan saat menginstal %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3620
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalasi dari %1$s gagal."
+
+#: class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proses instalasi dan aktivasi sedang dimulai. Proses ini mungkin memakan "
+"waktu di beberapa host, mohon bersabar."
+
+#: class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s berhasil diinstal dan diaktifkan."
+
+#: class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr "Semua instalasi dan aktivasi telah selesai."
+
+#: class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Menginstal dan Mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3632
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Proses instalasi sedang dimulai. Proses ini mungkin memakan waktu di "
+"beberapa host, mohon bersabar."
+
+#: class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr "Semua instalasi telah selesai."
+
+#: class-tgm-plugin-activation.php:3637
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Menginstal Plugin %1$s (%2$d/%3$d)"

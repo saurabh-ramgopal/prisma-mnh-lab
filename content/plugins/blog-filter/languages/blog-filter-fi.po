@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Filter Translation For Finnish (Finland)\n"
+"POT-Creation-Date: 2023-11-28 16:28+0530\n"
+"PO-Revision-Date: 2023-11-28 16:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-output.php:192
+msgid "By"
+msgstr "Tekijä"
+
+#: blog-filter-settings.php:18
+msgid "Blog Filter Settings Page"
+msgstr "Blogin Suodatusasetusten Sivu"
+
+#: blog-filter-settings.php:25
+msgid "Column Settings"
+msgstr "Sarakkeen Asetukset"
+
+#: blog-filter-settings.php:30
+msgid "Template Right To Left"
+msgstr "Malli Oikealta Vasemmalle"
+
+#: blog-filter-settings.php:41
+msgid "Same Size Grid"
+msgstr "Samankokoinen Ruudukko"
+
+#: blog-filter-settings.php:52
+msgid "Column On Large Desktop"
+msgstr "Sarake Suurella Työpöydällä"
+
+#: blog-filter-settings.php:56
+msgid "1 Column"
+msgstr "1 Sarake"
+
+#: blog-filter-settings.php:57
+msgid "2 Column"
+msgstr "2 Saraketta"
+
+#: blog-filter-settings.php:58
+msgid "3 Column"
+msgstr "3 Saraketta"
+
+#: blog-filter-settings.php:59
+msgid "4 Column"
+msgstr "4 Saraketta"
+
+#: blog-filter-settings.php:60
+msgid "6 Column"
+msgstr "6 Saraketta"
+
+#: blog-filter-settings.php:61
+msgid "12 Column"
+msgstr "12 Saraketta"
+
+#: blog-filter-settings.php:67
+msgid "Column On Desktop"
+msgstr "Sarake Työpöydällä"
+
+#: blog-filter-settings.php:70 blog-filter-settings.php:78
+#: blog-filter-settings.php:86 blog-filter-settings.php:141
+#: blog-filter-settings.php:149 blog-filter-settings.php:198
+#: blog-filter-settings.php:206 blog-filter-settings.php:315
+#: blog-filter-settings.php:364 blog-filter-settings.php:372
+#: blog-filter-settings.php:380 blog-filter-settings.php:388
+#: blog-filter-settings.php:475 blog-filter-settings.php:483
+#: blog-filter-settings.php:491 blog-filter-settings.php:499
+#: blog-filter-settings.php:600 blog-filter-settings.php:608
+#: blog-filter-settings.php:616 blog-filter-settings.php:635
+#: blog-filter-settings.php:643 blog-filter-settings.php:662
+#: blog-filter-settings.php:670
+msgid "Upgrade To Pro"
+msgstr "Päivitä Pro-versioon"
+
+#: blog-filter-settings.php:75
+msgid "Column On Tablet"
+msgstr "Sarake Tabletissa"
+
+#: blog-filter-settings.php:83
+msgid "Column On Phone"
+msgstr "Sarake Puhelimessa"
+
+#: blog-filter-settings.php:97
+msgid "Image Settings"
+msgstr "Kuvan Asetukset"
+
+#: blog-filter-settings.php:102
+msgid "Show Blog Images"
+msgstr "Näytä Blogikuvat"
+
+#: blog-filter-settings.php:113
+msgid "Image Quality"
+msgstr "Kuvan Laatu"
+
+#: blog-filter-settings.php:117
+msgid "Thumbnail"
+msgstr "Pikkukuva"
+
+#: blog-filter-settings.php:118
+msgid "Medium"
+msgstr "Keskikokoinen"
+
+#: blog-filter-settings.php:119
+msgid "Large"
+msgstr "Suuri"
+
+#: blog-filter-settings.php:120
+msgid "Full"
+msgstr "Täysikokoinen"
+
+#: blog-filter-settings.php:126
+msgid "Image Hover Effect"
+msgstr "Kuvan Leijumisefekti"
+
+#: blog-filter-settings.php:130
+msgid "None"
+msgstr "Ei Mitään"
+
+#: blog-filter-settings.php:131
+msgid "Hover 1"
+msgstr "Leijuminen 1"
+
+#: blog-filter-settings.php:135
+msgid "Get more hover effect in Pro"
+msgstr "Lisää leijumisefektejä Pro-versiossa"
+
+#: blog-filter-settings.php:138
+msgid "Link On Image"
+msgstr "Linkki Kuvassa"
+
+#: blog-filter-settings.php:146
+msgid "Lightbox On Image"
+msgstr "Lightbox Kuvassa"
+
+#: blog-filter-settings.php:160
+msgid "Title Settings"
+msgstr "Otsikon Asetukset"
+
+#: blog-filter-settings.php:165
+msgid "Show Blog Title"
+msgstr "Näytä Blogin Otsikko"
+
+#: blog-filter-settings.php:176
+msgid "Title Text Color"
+msgstr "Otsikon Tekstin Väri"
+
+#: blog-filter-settings.php:184
+msgid "Title Font Size"
+msgstr "Otsikon Fonttikoko"
+
+#: blog-filter-settings.php:195
+msgid "Title Below The Image"
+msgstr "Otsikko Kuvan Alla"
+
+#: blog-filter-settings.php:203
+msgid "Link On Title"
+msgstr "Linkki Otsikossa"
+
+#: blog-filter-settings.php:217
+msgid "Description Settings"
+msgstr "Kuvauksen Asetukset"
+
+#: blog-filter-settings.php:222
+msgid "Show Blog Description"
+msgstr "Näytä Blogin Kuvaus"
+
+#: blog-filter-settings.php:233
+msgid "Description Text Color"
+msgstr "Kuvauksen Tekstin Väri"
+
+#: blog-filter-settings.php:241
+msgid "Description Box Color"
+msgstr "Kuvauslaatikon Väri"
+
+#: blog-filter-settings.php:249
+msgid "Description Font Size"
+msgstr "Kuvauksen Fonttikoko"
+
+#: blog-filter-settings.php:260
+msgid "How Much Characters Show In Description"
+msgstr "Kuinka Monta Merkkiä Näkyy Kuvauksessa"
+
+#: blog-filter-settings.php:274
+msgid "Post Meta Settings"
+msgstr "Artikkelin Meta-asetukset"
+
+#: blog-filter-settings.php:279
+msgid "Show Post Date"
+msgstr "Näytä Artikkelin Päivämäärä"
+
+#: blog-filter-settings.php:290
+msgid "Show Post Author"
+msgstr "Näytä Artikkelin Tekijä"
+
+#: blog-filter-settings.php:301
+msgid "Show Post Categories"
+msgstr "Näytä Artikkelin Kategoriat"
+
+#: blog-filter-settings.php:312
+msgid "Show Post Tags"
+msgstr "Näytä Artikkelin Tagit"
+
+#: blog-filter-settings.php:326
+msgid "Link (URL) Settings"
+msgstr "Linkin (URL) Asetukset"
+
+#: blog-filter-settings.php:331
+msgid "Show Read More Link"
+msgstr "Näytä 'Lue Lisää' Linkki"
+
+#: blog-filter-settings.php:342
+msgid "Text For Read More Link"
+msgstr "'Lue Lisää' Linkin Teksti"
+
+#: blog-filter-settings.php:350
+msgid "Link On Date"
+msgstr "Linkki Päivämäärässä"
+
+#: blog-filter-settings.php:361
+msgid "Link On Author"
+msgstr "Linkki Tekijässä"
+
+#: blog-filter-settings.php:369
+msgid "Link On Category"
+msgstr "Linkki Kategoriassa"
+
+#: blog-filter-settings.php:377
+msgid "Link On Tags"
+msgstr "Linkki Tageissa"
+
+#: blog-filter-settings.php:385
+msgid "Link Open In New Tab"
+msgstr "Linkki Avautuu Uudessa Välilehdessä"
+
+#: blog-filter-settings.php:399
+msgid "Filter Settings"
+msgstr "Suodattimen Asetukset"
+
+#: blog-filter-settings.php:404
+msgid "Show Filters"
+msgstr "Näytä Suodattimet"
+
+#: blog-filter-settings.php:415
+msgid "Show Filter \"All\""
+msgstr "Näytä Suodatin 'Kaikki'"
+
+#: blog-filter-settings.php:426
+msgid "Text For \"All\" Button"
+msgstr "'Kaikki' Nappulan Teksti"
+
+#: blog-filter-settings.php:434
+msgid "Show Post Count On Filters"
+msgstr "Näytä Artikkelien Määrä Suodattimissa"
+
+#: blog-filter-settings.php:445
+msgid "Buttons Color"
+msgstr "Nappuloiden Väri"
+
+#: blog-filter-settings.php:453
+msgid "Blog Search Field"
+msgstr "Blogihaun Kenttä"
+
+#: blog-filter-settings.php:464
+msgid "Text For Search"
+msgstr "Hakuteksti"
+
+#: blog-filter-settings.php:472
+msgid "Multi-Filter In Same Time"
+msgstr "Useita Suodattimia Samanaikaisesti"
+
+#: blog-filter-settings.php:480
+msgid "Select Default Filter"
+msgstr "Valitse Oletussuodatin"
+
+#: blog-filter-settings.php:488
+msgid "Exclude Posts"
+msgstr "Poissulje Artikkelit"
+
+#: blog-filter-settings.php:496
+msgid "URL Based Filtering"
+msgstr "URL-pohjainen Suodatus"
+
+#: blog-filter-settings.php:504
+msgid "Filtering with"
+msgstr "Suodatus"
+
+#: blog-filter-settings.php:508 blog-filter-settings.php:524
+msgid "Category"
+msgstr "Kategoria"
+
+#: blog-filter-settings.php:509
+msgid "Tag"
+msgstr "Tagi"
+
+#: blog-filter-settings.php:523 blog-filter-settings.php:553
+msgid "ID"
+msgstr "ID"
+
+#: blog-filter-settings.php:525
+msgid "Select"
+msgstr "Valitse"
+
+#: blog-filter-settings.php:541
+msgid "Note: In free version you can use only 4 categories as filters"
+msgstr "Huom: Ilmaisversiossa voit käyttää vain 4 kategoriaa suodattimina"
+
+#: blog-filter-settings.php:554
+msgid "Post Tag"
+msgstr "Artikkelin Tagi"
+
+#: blog-filter-settings.php:571
+msgid "Note: In free version you can use only 4 tags as filters"
+msgstr "Huom: Ilmaisversiossa voit käyttää vain 4 tagia suodattimina"
+
+#: blog-filter-settings.php:581
+msgid "Pagination Settings"
+msgstr "Sivutuksen Asetukset"
+
+#: blog-filter-settings.php:586
+msgid "Pagination"
+msgstr "Sivutus"
+
+#: blog-filter-settings.php:597
+msgid "Blogs On Per Page"
+msgstr "Blogeja Sivua Kohden"
+
+#: blog-filter-settings.php:605
+msgid "Load More"
+msgstr "Lataa Lisää"
+
+#: blog-filter-settings.php:613
+msgid "Load On Scroll"
+msgstr "Lataa Vierittäessä"
+
+#: blog-filter-settings.php:627
+msgid "Post Order Settings"
+msgstr "Artikkelien Järjestysasetukset"
+
+#: blog-filter-settings.php:632
+msgid "Post Order By"
+msgstr "Artikkelien Järjestys"
+
+#: blog-filter-settings.php:640
+msgid "Post Order"
+msgstr "Artikkelien Järjestys"
+
+#: blog-filter-settings.php:654
+msgid "Thumbnail Settings"
+msgstr "Pikkukuvan Asetukset"
+
+#: blog-filter-settings.php:659
+msgid "Thumbanil Hover Effect"
+msgstr "Pikkukuvan Leijumisefekti"
+
+#: blog-filter-settings.php:667
+msgid "Thumbnail Spacing"
+msgstr "Pikkukuvan Väli"
+
+#: blog-filter-settings.php:681
+msgid "Try Pro Version"
+msgstr "Kokeile Pro Versiota"
+
+#: blog-filter-settings.php:686
+msgid "Update Sortcode, Without Regenerate It"
+msgstr "Päivitä Järjestyskoodi Ilman Uudelleengenerointia"
+
+#: blog-filter-settings.php:689
+msgid "See Post"
+msgstr "Katso Artikkeli"
+
+#: blog-filter-settings.php:694
+msgid "Contact Us"
+msgstr "Ota Yhteyttä"
+
+#: blog-filter-settings.php:697
+msgid "Contact"
+msgstr "Yhteystiedot"
+
+#: blog-filter-settings.php:702
+msgid "See Live Demo of Pro"
+msgstr "Katso Pro-version Live Demo"
+
+#: blog-filter-settings.php:705
+msgid "Live Demo"
+msgstr "Live Demo"
+
+#: blog-filter-settings.php:710
+msgid "Buy Pro"
+msgstr "Osta Pro"
+
+#: blog-filter-settings.php:713
+msgid "Buy Pro Plugin"
+msgstr "Osta Pro-laajennus"
+
+#: blog-filter-settings.php:726
+msgid "Blog Filter"
+msgstr "Blogisuodatin"
+
+#: blog-filter-settings.php:729
+msgid "Version - "
+msgstr "Versio - "
+
+#: blog-filter-settings.php:738
+msgid "[ Generate Sortcode ]"
+msgstr "[ Luo Järjestyskoodi ]"
+
+#: blog-filter-settings.php:749
+msgid "Blog Filter Shortcode"
+msgstr "Blogisuodattimen Pikakoodi"
+
+#: blog-filter-settings.php:752
+msgid "Copy The Shortcode"
+msgstr "Kopioi Pikakoodi"
+
+#: blog-filter-settings.php:756
+msgid "Copy Sortcode"
+msgstr "Kopioi Järjestyskoodi"
+
+#: blog-filter.php:44
+msgid "Blog Filter Premium"
+msgstr "Blogisuodattimen Premium"
+
+#: blog-filter.php:70
+msgid "Settings"
+msgstr "Asetukset"
+
+#: blog-filter.php:90
+msgid "Blog Filters Settings"
+msgstr "Blogisuodattimien Asetukset"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Asenna Vaaditut Laajennukset"
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Asenna Laajennukset"
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Asennetaan Laajennusta: %s"
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Päivitetään Laajennusta: %s"
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Laajennuksen API:ssa ilmeni ongelma."
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Palaa Vaadittujen Laajennusten Asentajaan"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "Palaa Hallintapaneeliin"
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr "Laajennus aktivoitiin onnistuneesti."
+
+#: class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "Seuraava laajennus aktivoitiin onnistuneesti:"
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ei toimenpiteitä. Laajennus %1$s oli jo aktiivinen."
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Laajennusta ei aktivoitu. Tämä teema vaatii korkeamman version %s. Päivitä "
+"laajennus."
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Kaikki laajennukset asennettiin ja aktivoitiin onnistuneesti. %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Hylkää tämä ilmoitus"
+
+#: class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Yksi tai useampia vaadittuja tai suositeltuja lisäosia on asennettava, "
+"päivitettävä tai aktivoitava."
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Ole yhteydessä tämän sivuston ylläpitäjään saadaksesi apua."
+
+#: class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr "Vaadittu"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr "Suositeltu"
+
+#: class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr "WordPressin Repositorio"
+
+#: class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr "Ulkoinen Lähde"
+
+#: class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr "Esipakattu"
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr "Ei Asennettu"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr "Asennettu Mutta Ei Aktivoitu"
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr "Aktiivinen"
+
+#: class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr "Vaadittua Päivitystä Ei Ole Saatavilla"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr "Vaatii Päivityksen"
+
+#: class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr "Päivitys Suositeltu"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr "Asennettu Versio:"
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr "Minimivaatimus Versiolle:"
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr "Saatavilla Oleva Versio:"
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr "Lisäosa"
+
+#: class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr "Lähde"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr "Tyyppi"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr "Versio"
+
+#: class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr "Tila"
+
+#: class-tgm-plugin-activation.php:2716
+#, php-format
+msgid "Install %2$s"
+msgstr "Asenna %2$s"
+
+#: class-tgm-plugin-activation.php:2721
+#, php-format
+msgid "Update %2$s"
+msgstr "Päivitä %2$s"
+
+#: class-tgm-plugin-activation.php:2727
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktivoi %2$s"
+
+#: class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr "Asenna"
+
+#: class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr "Päivitä"
+
+#: class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr "Aktivoi"
+
+#: class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ei valittu asennettavia lisäosia. Toimenpiteitä ei tehty."
+
+#: class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ei valittu päivitettäviä lisäosia. Toimenpiteitä ei tehty."
+
+#: class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr "Ei ole saatavilla asennettavia lisäosia tällä hetkellä."
+
+#: class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr "Ei ole saatavilla päivitettäviä lisäosia tällä hetkellä."
+
+#: class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr "Lisäosan aktivointi epäonnistui."
+
+#: class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Päivitetään Lisäosaa %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Asennettaessa %1$s tapahtui virhe: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3620
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s asennus epäonnistui."
+
+#: class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Asennus- ja aktivointiprosessi on alkamassa. Tämä prosessi saattaa kestää "
+"jonkin aikaa joillakin isännöillä, joten ole kärsivällinen."
+
+#: class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s asennettu ja aktivoitu onnistuneesti."
+
+#: class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr "Kaikki asennukset ja aktivoinnit on suoritettu."
+
+#: class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Asennetaan ja Aktivoidaan Lisäosaa %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3632
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Asennusprosessi on alkamassa. Tämä prosessi saattaa kestää jonkin aikaa "
+"joillakin isännöillä, joten ole kärsivällinen."
+
+#: class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr "Kaikki asennukset on suoritettu."
+
+#: class-tgm-plugin-activation.php:3637
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Asennetaan Lisäosaa %1$s (%2$d/%3$d)"

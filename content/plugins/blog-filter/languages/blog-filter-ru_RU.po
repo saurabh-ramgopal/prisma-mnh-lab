@@ -1,0 +1,698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Filter Translatin For Russian (Russia)\n"
+"POT-Creation-Date: 2023-11-30 15:39+0530\n"
+"PO-Revision-Date: 2023-11-30 15:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-output.php:192
+msgid "By"
+msgstr "От"
+
+#: blog-filter-settings.php:18
+msgid "Blog Filter Settings Page"
+msgstr "Страница настроек фильтра блога"
+
+#: blog-filter-settings.php:25
+msgid "Column Settings"
+msgstr "Настройки столбцов"
+
+#: blog-filter-settings.php:30
+msgid "Template Right To Left"
+msgstr "Шаблон Справа Налево"
+
+#: blog-filter-settings.php:41
+msgid "Same Size Grid"
+msgstr "Сетка одинакового размера"
+
+#: blog-filter-settings.php:52
+msgid "Column On Large Desktop"
+msgstr "Столбец на большом рабочем столе"
+
+#: blog-filter-settings.php:56
+msgid "1 Column"
+msgstr "1 столбец"
+
+#: blog-filter-settings.php:57
+msgid "2 Column"
+msgstr "2 столбца"
+
+#: blog-filter-settings.php:58
+msgid "3 Column"
+msgstr "3 столбца"
+
+#: blog-filter-settings.php:59
+msgid "4 Column"
+msgstr "4 столбца"
+
+#: blog-filter-settings.php:60
+msgid "6 Column"
+msgstr "6 столбцов"
+
+#: blog-filter-settings.php:61
+msgid "12 Column"
+msgstr "12 столбцов"
+
+#: blog-filter-settings.php:67
+msgid "Column On Desktop"
+msgstr "Столбец на рабочем столе"
+
+#: blog-filter-settings.php:70 blog-filter-settings.php:78
+#: blog-filter-settings.php:86 blog-filter-settings.php:141
+#: blog-filter-settings.php:149 blog-filter-settings.php:198
+#: blog-filter-settings.php:206 blog-filter-settings.php:315
+#: blog-filter-settings.php:364 blog-filter-settings.php:372
+#: blog-filter-settings.php:380 blog-filter-settings.php:388
+#: blog-filter-settings.php:475 blog-filter-settings.php:483
+#: blog-filter-settings.php:491 blog-filter-settings.php:499
+#: blog-filter-settings.php:600 blog-filter-settings.php:608
+#: blog-filter-settings.php:616 blog-filter-settings.php:635
+#: blog-filter-settings.php:643 blog-filter-settings.php:662
+#: blog-filter-settings.php:670
+msgid "Upgrade To Pro"
+msgstr "Обновить до Pro"
+
+#: blog-filter-settings.php:75
+msgid "Column On Tablet"
+msgstr "Столбец на планшете"
+
+#: blog-filter-settings.php:83
+msgid "Column On Phone"
+msgstr "Столбец на телефоне"
+
+#: blog-filter-settings.php:97
+msgid "Image Settings"
+msgstr "Настройки изображения"
+
+#: blog-filter-settings.php:102
+msgid "Show Blog Images"
+msgstr "Показывать изображения блога"
+
+#: blog-filter-settings.php:113
+msgid "Image Quality"
+msgstr "Качество изображения"
+
+#: blog-filter-settings.php:117
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: blog-filter-settings.php:118
+msgid "Medium"
+msgstr "Средний"
+
+#: blog-filter-settings.php:119
+msgid "Large"
+msgstr "Большой"
+
+#: blog-filter-settings.php:120
+msgid "Full"
+msgstr "Полный"
+
+#: blog-filter-settings.php:126
+msgid "Image Hover Effect"
+msgstr "Эффект наведения на изображение"
+
+#: blog-filter-settings.php:130
+msgid "None"
+msgstr "Нет"
+
+#: blog-filter-settings.php:131
+msgid "Hover 1"
+msgstr "Наведение 1"
+
+#: blog-filter-settings.php:135
+msgid "Get more hover effect in Pro"
+msgstr "Больше эффектов наведения в Pro"
+
+#: blog-filter-settings.php:138
+msgid "Link On Image"
+msgstr "Ссылка на изображении"
+
+#: blog-filter-settings.php:146
+msgid "Lightbox On Image"
+msgstr "Лайтбокс на изображении"
+
+#: blog-filter-settings.php:160
+msgid "Title Settings"
+msgstr "Настройки заголовка"
+
+#: blog-filter-settings.php:165
+msgid "Show Blog Title"
+msgstr "Показать заголовок блога"
+
+#: blog-filter-settings.php:176
+msgid "Title Text Color"
+msgstr "Цвет текста заголовка"
+
+#: blog-filter-settings.php:184
+msgid "Title Font Size"
+msgstr "Размер шрифта заголовка"
+
+#: blog-filter-settings.php:195
+msgid "Title Below The Image"
+msgstr "Заголовок под изображением"
+
+#: blog-filter-settings.php:203
+msgid "Link On Title"
+msgstr "Ссылка на заголовке"
+
+#: blog-filter-settings.php:217
+msgid "Description Settings"
+msgstr "Настройки описания"
+
+#: blog-filter-settings.php:222
+msgid "Show Blog Description"
+msgstr "Показать описание блога"
+
+#: blog-filter-settings.php:233
+msgid "Description Text Color"
+msgstr "Цвет текста описания"
+
+#: blog-filter-settings.php:241
+msgid "Description Box Color"
+msgstr "Цвет поля описания"
+
+#: blog-filter-settings.php:249
+msgid "Description Font Size"
+msgstr "Размер шрифта описания"
+
+#: blog-filter-settings.php:260
+msgid "How Much Characters Show In Description"
+msgstr "Сколько символов показывать в описании"
+
+#: blog-filter-settings.php:274
+msgid "Post Meta Settings"
+msgstr "Настройки метаданных поста"
+
+#: blog-filter-settings.php:279
+msgid "Show Post Date"
+msgstr "Показать дату поста"
+
+#: blog-filter-settings.php:290
+msgid "Show Post Author"
+msgstr "Показать автора поста"
+
+#: blog-filter-settings.php:301
+msgid "Show Post Categories"
+msgstr "Показать категории поста"
+
+#: blog-filter-settings.php:312
+msgid "Show Post Tags"
+msgstr "Показать теги поста"
+
+#: blog-filter-settings.php:326
+msgid "Link (URL) Settings"
+msgstr "Настройки ссылки (URL)"
+
+#: blog-filter-settings.php:331
+msgid "Show Read More Link"
+msgstr "Показать ссылку 'Читать далее'"
+
+#: blog-filter-settings.php:342
+msgid "Text For Read More Link"
+msgstr "Текст для ссылки 'Читать далее'"
+
+#: blog-filter-settings.php:350
+msgid "Link On Date"
+msgstr "Ссылка на дате"
+
+#: blog-filter-settings.php:361
+msgid "Link On Author"
+msgstr "Ссылка на авторе"
+
+#: blog-filter-settings.php:369
+msgid "Link On Category"
+msgstr "Ссылка на категории"
+
+#: blog-filter-settings.php:377
+msgid "Link On Tags"
+msgstr "Ссылка на тегах"
+
+#: blog-filter-settings.php:385
+msgid "Link Open In New Tab"
+msgstr "Открыть ссылку в новой вкладке"
+
+#: blog-filter-settings.php:399
+msgid "Filter Settings"
+msgstr "Настройки фильтра"
+
+#: blog-filter-settings.php:404
+msgid "Show Filters"
+msgstr "Показать фильтры"
+
+#: blog-filter-settings.php:415
+msgid "Show Filter \"All\""
+msgstr "Показать фильтр 'Все'"
+
+#: blog-filter-settings.php:426
+msgid "Text For \"All\" Button"
+msgstr "Текст для кнопки 'Все'"
+
+#: blog-filter-settings.php:434
+msgid "Show Post Count On Filters"
+msgstr "Показать количество постов в фильтрах"
+
+#: blog-filter-settings.php:445
+msgid "Buttons Color"
+msgstr "Цвет кнопок"
+
+#: blog-filter-settings.php:453
+msgid "Blog Search Field"
+msgstr "Поле поиска блога"
+
+#: blog-filter-settings.php:464
+msgid "Text For Search"
+msgstr "Текст для поиска"
+
+#: blog-filter-settings.php:472
+msgid "Multi-Filter In Same Time"
+msgstr "Мультифильтр одновременно"
+
+#: blog-filter-settings.php:480
+msgid "Select Default Filter"
+msgstr "Выбрать стандартный фильтр"
+
+#: blog-filter-settings.php:488
+msgid "Exclude Posts"
+msgstr "Исключить посты"
+
+#: blog-filter-settings.php:496
+msgid "URL Based Filtering"
+msgstr "Фильтрация на основе URL"
+
+#: blog-filter-settings.php:504
+msgid "Filtering with"
+msgstr "Фильтрация с помощью"
+
+#: blog-filter-settings.php:508 blog-filter-settings.php:524
+msgid "Category"
+msgstr "Категория"
+
+#: blog-filter-settings.php:509
+msgid "Tag"
+msgstr "Тег"
+
+#: blog-filter-settings.php:523 blog-filter-settings.php:553
+msgid "ID"
+msgstr "ID"
+
+#: blog-filter-settings.php:525
+msgid "Select"
+msgstr "Выбрать"
+
+#: blog-filter-settings.php:541
+msgid "Note: In free version you can use only 4 categories as filters"
+msgstr ""
+"Примечание: В бесплатной версии можно использовать только 4 категории в "
+"качестве фильтров"
+
+#: blog-filter-settings.php:554
+msgid "Post Tag"
+msgstr "Тег поста"
+
+#: blog-filter-settings.php:571
+msgid "Note: In free version you can use only 4 tags as filters"
+msgstr ""
+"Примечание: В бесплатной версии можно использовать только 4 тега в качестве "
+"фильтров"
+
+#: blog-filter-settings.php:581
+msgid "Pagination Settings"
+msgstr "Настройки пагинации"
+
+#: blog-filter-settings.php:586
+msgid "Pagination"
+msgstr "Пагинация"
+
+#: blog-filter-settings.php:597
+msgid "Blogs On Per Page"
+msgstr "Блоги на странице"
+
+#: blog-filter-settings.php:605
+msgid "Load More"
+msgstr "Загрузить еще"
+
+#: blog-filter-settings.php:613
+msgid "Load On Scroll"
+msgstr "Загрузка при прокрутке"
+
+#: blog-filter-settings.php:627
+msgid "Post Order Settings"
+msgstr "Настройки порядка постов"
+
+#: blog-filter-settings.php:632
+msgid "Post Order By"
+msgstr "Порядок постов по"
+
+#: blog-filter-settings.php:640
+msgid "Post Order"
+msgstr "Порядок постов"
+
+#: blog-filter-settings.php:654
+msgid "Thumbnail Settings"
+msgstr "Настройки миниатюры"
+
+#: blog-filter-settings.php:659
+msgid "Thumbanil Hover Effect"
+msgstr "Эффект наведения на миниатюру"
+
+#: blog-filter-settings.php:667
+msgid "Thumbnail Spacing"
+msgstr "Отступ миниатюр"
+
+#: blog-filter-settings.php:681
+msgid "Try Pro Version"
+msgstr "Попробуйте Pro версию"
+
+#: blog-filter-settings.php:686
+msgid "Update Sortcode, Without Regenerate It"
+msgstr "Обновить сортировочный код без его перегенерации"
+
+#: blog-filter-settings.php:689
+msgid "See Post"
+msgstr "Смотреть пост"
+
+#: blog-filter-settings.php:694
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+#: blog-filter-settings.php:697
+msgid "Contact"
+msgstr "Контакт"
+
+#: blog-filter-settings.php:702
+msgid "See Live Demo of Pro"
+msgstr "Смотреть демонстрацию Pro версии"
+
+#: blog-filter-settings.php:705
+msgid "Live Demo"
+msgstr "Демонстрация"
+
+#: blog-filter-settings.php:710
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: blog-filter-settings.php:713
+msgid "Buy Pro Plugin"
+msgstr "Купить Pro плагин"
+
+#: blog-filter-settings.php:726
+msgid "Blog Filter"
+msgstr "Фильтр блога"
+
+#: blog-filter-settings.php:729
+msgid "Version - "
+msgstr "Версия - "
+
+#: blog-filter-settings.php:738
+msgid "[ Generate Sortcode ]"
+msgstr "[ Сгенерировать сортировочный код ]"
+
+#: blog-filter-settings.php:749
+msgid "Blog Filter Shortcode"
+msgstr "Шорткод фильтра блога"
+
+#: blog-filter-settings.php:752
+msgid "Copy The Shortcode"
+msgstr "Скопировать шорткод"
+
+#: blog-filter-settings.php:756
+msgid "Copy Sortcode"
+msgstr "Скопировать сортировочный код"
+
+#: blog-filter.php:44
+msgid "Blog Filter Premium"
+msgstr "Blog Filter Premium"
+
+#: blog-filter.php:70
+msgid "Settings"
+msgstr "Настройки"
+
+#: blog-filter.php:90
+msgid "Blog Filters Settings"
+msgstr "Настройки фильтров блога"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Установить необходимые плагины"
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установщику необходимых плагинов"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "Вернуться на панель управления"
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "Следующий плагин был успешно активирован:"
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действий не предпринято. Плагин %1$s уже был активен."
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плагин не активирован. Для этой темы требуется более новая версия %s. "
+"Пожалуйста, обновите плагин."
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно установлены и активированы. %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Отменить это уведомление"
+
+#: class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Есть один или несколько необходимых или рекомендуемых плагинов для "
+"установки, обновления или активации."
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Пожалуйста, свяжитесь с администратором этого сайта для получения помощи."
+
+#: class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA версии %s"
+
+#: class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr "Требуется"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr "Предустановленный"
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr "Активный"
+
+#: class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr "Требует обновления"
+
+#: class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr "Рекомендуется обновить"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr "Минимально требуемая версия:"
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr "Плагин"
+
+#: class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr "Источник"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr "Тип"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr "Версия"
+
+#: class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr "Статус"
+
+#: class-tgm-plugin-activation.php:2716
+#, php-format
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: class-tgm-plugin-activation.php:2721
+#, php-format
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#: class-tgm-plugin-activation.php:2727
+#, php-format
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr "Установить"
+
+#: class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr "Обновить"
+
+#: class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr "Активировать"
+
+#: class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Плагины для установки не были выбраны. Действий не предпринято."
+
+#: class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Плагины для обновления не были выбраны. Действий не предпринято."
+
+#: class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr "В настоящее время нет доступных плагинов для установки."
+
+#: class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr "В настоящее время нет доступных плагинов для обновления."
+
+#: class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "При установке %1$s произошла ошибка: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3620
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки и активации. Этот процесс может занять "
+"некоторое время на некоторых хостах, поэтому, пожалуйста, будьте терпеливы."
+
+#: class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+#: class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#: class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3632
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки. Этот процесс может занять некоторое время на "
+"некоторых хостах, поэтому, пожалуйста, будьте терпеливы."
+
+#: class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#: class-tgm-plugin-activation.php:3637
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"

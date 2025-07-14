@@ -1,0 +1,700 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Filter Translation For Dutch (Netherlands)\n"
+"POT-Creation-Date: 2023-11-29 16:36+0530\n"
+"PO-Revision-Date: 2023-11-29 16:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-output.php:192
+msgid "By"
+msgstr "Door"
+
+#: blog-filter-settings.php:18
+msgid "Blog Filter Settings Page"
+msgstr "Pagina met Blogfilterinstellingen"
+
+#: blog-filter-settings.php:25
+msgid "Column Settings"
+msgstr "Kolominstellingen"
+
+#: blog-filter-settings.php:30
+msgid "Template Right To Left"
+msgstr "Sjabloon Van Rechts Naar Links"
+
+#: blog-filter-settings.php:41
+msgid "Same Size Grid"
+msgstr "Raster van Gelijk Formaat"
+
+#: blog-filter-settings.php:52
+msgid "Column On Large Desktop"
+msgstr "Kolom op Groot Bureaublad"
+
+#: blog-filter-settings.php:56
+msgid "1 Column"
+msgstr "1 Kolom"
+
+#: blog-filter-settings.php:57
+msgid "2 Column"
+msgstr "2 Kolommen"
+
+#: blog-filter-settings.php:58
+msgid "3 Column"
+msgstr "3 Kolommen"
+
+#: blog-filter-settings.php:59
+msgid "4 Column"
+msgstr "4 Kolommen"
+
+#: blog-filter-settings.php:60
+msgid "6 Column"
+msgstr "6 Kolommen"
+
+#: blog-filter-settings.php:61
+msgid "12 Column"
+msgstr "12 Kolommen"
+
+#: blog-filter-settings.php:67
+msgid "Column On Desktop"
+msgstr "Kolom op Desktop"
+
+#: blog-filter-settings.php:70 blog-filter-settings.php:78
+#: blog-filter-settings.php:86 blog-filter-settings.php:141
+#: blog-filter-settings.php:149 blog-filter-settings.php:198
+#: blog-filter-settings.php:206 blog-filter-settings.php:315
+#: blog-filter-settings.php:364 blog-filter-settings.php:372
+#: blog-filter-settings.php:380 blog-filter-settings.php:388
+#: blog-filter-settings.php:475 blog-filter-settings.php:483
+#: blog-filter-settings.php:491 blog-filter-settings.php:499
+#: blog-filter-settings.php:600 blog-filter-settings.php:608
+#: blog-filter-settings.php:616 blog-filter-settings.php:635
+#: blog-filter-settings.php:643 blog-filter-settings.php:662
+#: blog-filter-settings.php:670
+msgid "Upgrade To Pro"
+msgstr "Upgrade Naar Pro"
+
+#: blog-filter-settings.php:75
+msgid "Column On Tablet"
+msgstr "Kolom op Tablet"
+
+#: blog-filter-settings.php:83
+msgid "Column On Phone"
+msgstr "Kolom op Telefoon"
+
+#: blog-filter-settings.php:97
+msgid "Image Settings"
+msgstr "Afbeeldingsinstellingen"
+
+#: blog-filter-settings.php:102
+msgid "Show Blog Images"
+msgstr "Toon Blogafbeeldingen"
+
+#: blog-filter-settings.php:113
+msgid "Image Quality"
+msgstr "Beeldkwaliteit"
+
+#: blog-filter-settings.php:117
+msgid "Thumbnail"
+msgstr "Miniatuur"
+
+#: blog-filter-settings.php:118
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: blog-filter-settings.php:119
+msgid "Large"
+msgstr "Groot"
+
+#: blog-filter-settings.php:120
+msgid "Full"
+msgstr "Volledig"
+
+#: blog-filter-settings.php:126
+msgid "Image Hover Effect"
+msgstr "Hover-effect Afbeelding"
+
+#: blog-filter-settings.php:130
+msgid "None"
+msgstr "Geen"
+
+#: blog-filter-settings.php:131
+msgid "Hover 1"
+msgstr "Hover 1"
+
+#: blog-filter-settings.php:135
+msgid "Get more hover effect in Pro"
+msgstr "Meer hover-effecten in Pro"
+
+#: blog-filter-settings.php:138
+msgid "Link On Image"
+msgstr "Link op Afbeelding"
+
+#: blog-filter-settings.php:146
+msgid "Lightbox On Image"
+msgstr "Lightbox op Afbeelding"
+
+#: blog-filter-settings.php:160
+msgid "Title Settings"
+msgstr "Titelinstellingen"
+
+#: blog-filter-settings.php:165
+msgid "Show Blog Title"
+msgstr "Toon Blogtitel"
+
+#: blog-filter-settings.php:176
+msgid "Title Text Color"
+msgstr "Tekstkleur Titel"
+
+#: blog-filter-settings.php:184
+msgid "Title Font Size"
+msgstr "Lettergrootte Titel"
+
+#: blog-filter-settings.php:195
+msgid "Title Below The Image"
+msgstr "Titel Onder de Afbeelding"
+
+#: blog-filter-settings.php:203
+msgid "Link On Title"
+msgstr "Link op Titel"
+
+#: blog-filter-settings.php:217
+msgid "Description Settings"
+msgstr "Beschrijvingsinstellingen"
+
+#: blog-filter-settings.php:222
+msgid "Show Blog Description"
+msgstr "Toon Blogbeschrijving"
+
+#: blog-filter-settings.php:233
+msgid "Description Text Color"
+msgstr "Tekstkleur Beschrijving"
+
+#: blog-filter-settings.php:241
+msgid "Description Box Color"
+msgstr "Kleur Beschrijvingsvak"
+
+#: blog-filter-settings.php:249
+msgid "Description Font Size"
+msgstr "Lettergrootte Beschrijving"
+
+#: blog-filter-settings.php:260
+msgid "How Much Characters Show In Description"
+msgstr "Hoeveel Karakters Tonen in Beschrijving"
+
+#: blog-filter-settings.php:274
+msgid "Post Meta Settings"
+msgstr "Meta-instellingen Bericht"
+
+#: blog-filter-settings.php:279
+msgid "Show Post Date"
+msgstr "Toon Datum van Bericht"
+
+#: blog-filter-settings.php:290
+msgid "Show Post Author"
+msgstr "Toon Auteur van Bericht"
+
+#: blog-filter-settings.php:301
+msgid "Show Post Categories"
+msgstr "Toon Categorieën van Bericht"
+
+#: blog-filter-settings.php:312
+msgid "Show Post Tags"
+msgstr "Toon Tags van Bericht"
+
+#: blog-filter-settings.php:326
+msgid "Link (URL) Settings"
+msgstr "Link (URL) Instellingen"
+
+#: blog-filter-settings.php:331
+msgid "Show Read More Link"
+msgstr "Toon 'Lees Meer' Link"
+
+#: blog-filter-settings.php:342
+msgid "Text For Read More Link"
+msgstr "Tekst voor 'Lees Meer' Link"
+
+#: blog-filter-settings.php:350
+msgid "Link On Date"
+msgstr "Link op Datum"
+
+#: blog-filter-settings.php:361
+msgid "Link On Author"
+msgstr "Link op Auteur"
+
+#: blog-filter-settings.php:369
+msgid "Link On Category"
+msgstr "Link op Categorie"
+
+#: blog-filter-settings.php:377
+msgid "Link On Tags"
+msgstr "Link op Tags"
+
+#: blog-filter-settings.php:385
+msgid "Link Open In New Tab"
+msgstr "Link Openen in Nieuw Tabblad"
+
+#: blog-filter-settings.php:399
+msgid "Filter Settings"
+msgstr "Filterinstellingen"
+
+#: blog-filter-settings.php:404
+msgid "Show Filters"
+msgstr "Toon Filters"
+
+#: blog-filter-settings.php:415
+msgid "Show Filter \"All\""
+msgstr "Toon Filter 'Alles'"
+
+#: blog-filter-settings.php:426
+msgid "Text For \"All\" Button"
+msgstr "Tekst voor 'Alles' Knop"
+
+#: blog-filter-settings.php:434
+msgid "Show Post Count On Filters"
+msgstr "Toon Aantal Berichten op Filters"
+
+#: blog-filter-settings.php:445
+msgid "Buttons Color"
+msgstr "Kleur van Knoppen"
+
+#: blog-filter-settings.php:453
+msgid "Blog Search Field"
+msgstr "Blog Zoekveld"
+
+#: blog-filter-settings.php:464
+msgid "Text For Search"
+msgstr "Tekst voor Zoeken"
+
+#: blog-filter-settings.php:472
+msgid "Multi-Filter In Same Time"
+msgstr "Meerdere Filters Tegelijkertijd"
+
+#: blog-filter-settings.php:480
+msgid "Select Default Filter"
+msgstr "Selecteer Standaardfilter"
+
+#: blog-filter-settings.php:488
+msgid "Exclude Posts"
+msgstr "Sluit Berichten uit"
+
+#: blog-filter-settings.php:496
+msgid "URL Based Filtering"
+msgstr "Filteren op Basis van URL"
+
+#: blog-filter-settings.php:504
+msgid "Filtering with"
+msgstr "Filteren met"
+
+#: blog-filter-settings.php:508 blog-filter-settings.php:524
+msgid "Category"
+msgstr "Categorie"
+
+#: blog-filter-settings.php:509
+msgid "Tag"
+msgstr "Tag"
+
+#: blog-filter-settings.php:523 blog-filter-settings.php:553
+msgid "ID"
+msgstr "ID"
+
+#: blog-filter-settings.php:525
+msgid "Select"
+msgstr "Selecteer"
+
+#: blog-filter-settings.php:541
+msgid "Note: In free version you can use only 4 categories as filters"
+msgstr ""
+"Opmerking: In de gratis versie kun je slechts 4 categorieën als filters "
+"gebruiken"
+
+#: blog-filter-settings.php:554
+msgid "Post Tag"
+msgstr "Bericht Tag"
+
+#: blog-filter-settings.php:571
+msgid "Note: In free version you can use only 4 tags as filters"
+msgstr ""
+"Opmerking: In de gratis versie kun je slechts 4 tags als filters gebruiken"
+
+#: blog-filter-settings.php:581
+msgid "Pagination Settings"
+msgstr "Paginatie Instellingen"
+
+#: blog-filter-settings.php:586
+msgid "Pagination"
+msgstr "Paginatie"
+
+#: blog-filter-settings.php:597
+msgid "Blogs On Per Page"
+msgstr "Blogs Per Pagina"
+
+#: blog-filter-settings.php:605
+msgid "Load More"
+msgstr "Laad Meer"
+
+#: blog-filter-settings.php:613
+msgid "Load On Scroll"
+msgstr "Laad Bij Scrollen"
+
+#: blog-filter-settings.php:627
+msgid "Post Order Settings"
+msgstr "Berichtvolgorde Instellingen"
+
+#: blog-filter-settings.php:632
+msgid "Post Order By"
+msgstr "Berichtvolgorde Door"
+
+#: blog-filter-settings.php:640
+msgid "Post Order"
+msgstr "Berichtvolgorde"
+
+#: blog-filter-settings.php:654
+msgid "Thumbnail Settings"
+msgstr "Thumbnail Instellingen"
+
+#: blog-filter-settings.php:659
+msgid "Thumbanil Hover Effect"
+msgstr "Thumbnail Hover-effect"
+
+#: blog-filter-settings.php:667
+msgid "Thumbnail Spacing"
+msgstr "Thumbnail Spatiëring"
+
+#: blog-filter-settings.php:681
+msgid "Try Pro Version"
+msgstr "Probeer Pro Versie"
+
+#: blog-filter-settings.php:686
+msgid "Update Sortcode, Without Regenerate It"
+msgstr "Sorteercodes Bijwerken, Zonder Ze Opnieuw te Genereren"
+
+#: blog-filter-settings.php:689
+msgid "See Post"
+msgstr "Bekijk Bericht"
+
+#: blog-filter-settings.php:694
+msgid "Contact Us"
+msgstr "Neem Contact Op"
+
+#: blog-filter-settings.php:697
+msgid "Contact"
+msgstr "Contact"
+
+#: blog-filter-settings.php:702
+msgid "See Live Demo of Pro"
+msgstr "Bekijk Live Demo van Pro"
+
+#: blog-filter-settings.php:705
+msgid "Live Demo"
+msgstr "Live Demo"
+
+#: blog-filter-settings.php:710
+msgid "Buy Pro"
+msgstr "Koop Pro"
+
+#: blog-filter-settings.php:713
+msgid "Buy Pro Plugin"
+msgstr "Koop Pro Plugin"
+
+#: blog-filter-settings.php:726
+msgid "Blog Filter"
+msgstr "Blog Filter"
+
+#: blog-filter-settings.php:729
+msgid "Version - "
+msgstr "Versie - "
+
+#: blog-filter-settings.php:738
+msgid "[ Generate Sortcode ]"
+msgstr "[ Genereer Sorteercode ]"
+
+#: blog-filter-settings.php:749
+msgid "Blog Filter Shortcode"
+msgstr "Korte Code Blog Filter"
+
+#: blog-filter-settings.php:752
+msgid "Copy The Shortcode"
+msgstr "Kopieer De Korte Code"
+
+#: blog-filter-settings.php:756
+msgid "Copy Sortcode"
+msgstr "Kopieer Sorteercode"
+
+#: blog-filter.php:44
+msgid "Blog Filter Premium"
+msgstr "Blog Filter Premium"
+
+#: blog-filter.php:70
+msgid "Settings"
+msgstr "Instellingen"
+
+#: blog-filter.php:90
+msgid "Blog Filters Settings"
+msgstr "Instellingen Blog Filters"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Installeer Vereiste Plugins"
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installeer Plugins"
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin Installeren: %s"
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Plugin Bijwerken: %s"
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin-API."
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Terug naar Installeren van Vereiste Plugins"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "Terug naar het Dashboard"
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "De volgende plugin is succesvol geactiveerd:"
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie ondernomen. Plugin %1$s was al actief."
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin niet geactiveerd. Een hogere versie van %s is nodig voor dit thema. "
+"Update alstublieft de plugin."
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins zijn succesvol geïnstalleerd en geactiveerd. %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Negeer deze melding"
+
+#: class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Er zijn een of meer vereiste of aanbevolen plugins om te installeren, bij te "
+"werken of te activeren."
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem contact op met de beheerder van deze site voor hulp."
+
+#: class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr "Vereist"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr "Externe Bron"
+
+#: class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr "Voorverpakt"
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr "Niet Geïnstalleerd"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd Maar Niet Geactiveerd"
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr "Actief"
+
+#: class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr "Vereiste Update Niet Beschikbaar"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr "Vereist Update"
+
+#: class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr "Update Aanbevolen"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr "Minimaal vereiste versie:"
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr "Bron"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr "Type"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr "Versie"
+
+#: class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2716
+#, php-format
+msgid "Install %2$s"
+msgstr "Installeer %2$s"
+
+#: class-tgm-plugin-activation.php:2721
+#, php-format
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#: class-tgm-plugin-activation.php:2727
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activeer %2$s"
+
+#: class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr "Installeer"
+
+#: class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr "Bijwerken"
+
+#: class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr "Activeer"
+
+#: class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Er zijn geen plugins geselecteerd om te installeren. Geen actie ondernomen."
+
+#: class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Er zijn geen plugins geselecteerd om bij te werken. Geen actie ondernomen."
+
+#: class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr "Er zijn momenteel geen plugins beschikbaar om te installeren."
+
+#: class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr "Er zijn momenteel geen plugins beschikbaar om bij te werken."
+
+#: class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr "Plugin-activatie mislukt."
+
+#: class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s bijwerken (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Er is een fout opgetreden tijdens het installeren van %1$s: <strong>%2$s</"
+"strong>."
+
+#: class-tgm-plugin-activation.php:3620
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#: class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Het installatie- en activeringsproces is begonnen. Dit proces kan op sommige "
+"hosts even duren, wees alstublieft geduldig."
+
+#: class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s succesvol geïnstalleerd en geactiveerd."
+
+#: class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen zijn voltooid."
+
+#: class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s installeren en activeren (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3632
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Het installatieproces wordt gestart. Dit proces kan op sommige hosts enige "
+"tijd in beslag nemen, wees alstublieft geduldig."
+
+#: class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn voltooid."
+
+#: class-tgm-plugin-activation.php:3637
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s installeren (%2$d/%3$d)"
